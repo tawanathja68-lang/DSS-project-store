@@ -1,0 +1,4 @@
+Year,Quarter,TotalSales,TotalCost,TotalProfit,TotalQuantity,TransactionCount,LineItemCount,AverageTransactionValue,OverallProfitMargin
+2026,1,522847.63,358456.5,164391.13,23342,8583,16758,60.92,31.44
+2026,2,544304.94,374213.5,170091.44,24544,8918,17542,61.03,31.25
+2026,3,528013.94,362820.0,165193.94,23999,8826,17251,59.82,31.29

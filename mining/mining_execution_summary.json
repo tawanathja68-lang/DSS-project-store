@@ -1,0 +1,268 @@
+{
+  "OLAPReconciliation": {
+    "TotalQuantity": 71885,
+    "TotalRevenue": 1595166.51,
+    "TotalProfit": 499676.51,
+    "ExpectedQuantity": 71885,
+    "ExpectedRevenue": 1595166.51,
+    "ExpectedProfit": 499676.51,
+    "IsReconciled": true,
+    "ProductCount": 65
+  },
+  "KMeans": {
+    "KRange": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Inertias": [
+      96.06241399668363,
+      65.16568862784088,
+      49.38903717760811,
+      36.71966191586816,
+      30.60715468587925
+    ],
+    "SilhouetteScores": [
+      0.5472874399497013,
+      0.527932170311388,
+      0.4030829814010791,
+      0.4312995050913313,
+      0.41766498296716476
+    ],
+    "FinalK": 3,
+    "FinalInertia": 65.16568862784088,
+    "FinalSilhouette": 0.527932170311388,
+    "ClusterStats": [
+      {
+        "Cluster": 0,
+        "ProductCount": 11,
+        "AverageQuantity": 2925.2,
+        "AverageRevenue": 73804.28,
+        "AverageProfitMargin": 28.81,
+        "BusinessLabel": "High Revenue Anchors (Core Volume)",
+        "BusinessInterpretation": "Top revenue drivers with exceptional sales volume (2,900+ units); fundamental store staples requiring high availability."
+      },
+      {
+        "Cluster": 1,
+        "ProductCount": 43,
+        "AverageQuantity": 301.3,
+        "AverageRevenue": 9274.12,
+        "AverageProfitMargin": 31.15,
+        "BusinessLabel": "Long-Tail Assortment (Steady Movers)",
+        "BusinessInterpretation": "Selective demand and steady turnover (43 SKUs); provides essential category variety but requires lean inventory control."
+      },
+      {
+        "Cluster": 2,
+        "ProductCount": 11,
+        "AverageQuantity": 2431.8,
+        "AverageRevenue": 34957.46,
+        "AverageProfitMargin": 36.36,
+        "BusinessLabel": "High Margin Boosters (Profitable Fast-Movers)",
+        "BusinessInterpretation": "High volume (2,400+ units) paired with highest profit margin (36.36%); star items driving net store profitability."
+      }
+    ],
+    "ProductCount": 65
+  },
+  "AssociationRules": {
+    "TotalTransactions": 26327,
+    "SingleItemTransactions": 9134,
+    "MultiItemTransactions": 17193,
+    "MultiItemPercentage": 65.31,
+    "CrossStoreTransactions": 0,
+    "FrequentItemsetsCount": 34,
+    "AssociationRulesCount": 20,
+    "TopRules": [
+      {
+        "AntecedentProducts": "CP Sausage Roll Pastry 80g",
+        "ConsequentProducts": "Nescafe Espresso Roast 180ml",
+        "support": 0.0371,
+        "confidence": 0.8431,
+        "lift": 10.7385,
+        "leverage": 0.0337,
+        "conviction": 5.8732
+      },
+      {
+        "AntecedentProducts": "Nescafe Espresso Roast 180ml",
+        "ConsequentProducts": "CP Sausage Roll Pastry 80g",
+        "support": 0.0371,
+        "confidence": 0.4731,
+        "lift": 10.7385,
+        "leverage": 0.0337,
+        "conviction": 1.8144
+      },
+      {
+        "AntecedentProducts": "Le Pan Butter Sponge Cake 65g",
+        "ConsequentProducts": "Meiji Chocolate Milk 450ml",
+        "support": 0.0373,
+        "confidence": 0.8422,
+        "lift": 10.619,
+        "leverage": 0.0338,
+        "conviction": 5.8344
+      },
+      {
+        "AntecedentProducts": "Meiji Chocolate Milk 450ml",
+        "ConsequentProducts": "Le Pan Butter Sponge Cake 65g",
+        "support": 0.0373,
+        "confidence": 0.4703,
+        "lift": 10.619,
+        "leverage": 0.0338,
+        "conviction": 1.8043
+      },
+      {
+        "AntecedentProducts": "Farmhouse White Bread 480g",
+        "ConsequentProducts": "Meiji Pasteurized Fresh Milk 450ml",
+        "support": 0.0391,
+        "confidence": 0.502,
+        "lift": 6.329,
+        "leverage": 0.0329,
+        "conviction": 1.8486
+      },
+      {
+        "AntecedentProducts": "Meiji Pasteurized Fresh Milk 450ml",
+        "ConsequentProducts": "Farmhouse White Bread 480g",
+        "support": 0.0391,
+        "confidence": 0.4928,
+        "lift": 6.329,
+        "leverage": 0.0329,
+        "conviction": 1.8181
+      },
+      {
+        "AntecedentProducts": "Oishi Green Tea Honey Lemon 500ml",
+        "ConsequentProducts": "Bento Squid Sweet & Spicy 20g",
+        "support": 0.0387,
+        "confidence": 0.503,
+        "lift": 6.2608,
+        "leverage": 0.0325,
+        "conviction": 1.8503
+      },
+      {
+        "AntecedentProducts": "Bento Squid Sweet & Spicy 20g",
+        "ConsequentProducts": "Oishi Green Tea Honey Lemon 500ml",
+        "support": 0.0387,
+        "confidence": 0.4813,
+        "lift": 6.2608,
+        "leverage": 0.0325,
+        "conviction": 1.7798
+      },
+      {
+        "AntecedentProducts": "Farmhouse Ham & Cheese Sandwich",
+        "ConsequentProducts": "Birdy Robusta Canned Coffee 180ml",
+        "support": 0.0371,
+        "confidence": 0.4834,
+        "lift": 6.1844,
+        "leverage": 0.0311,
+        "conviction": 1.7846
+      },
+      {
+        "AntecedentProducts": "Birdy Robusta Canned Coffee 180ml",
+        "ConsequentProducts": "Farmhouse Ham & Cheese Sandwich",
+        "support": 0.0371,
+        "confidence": 0.4752,
+        "lift": 6.1844,
+        "leverage": 0.0311,
+        "conviction": 1.7591
+      },
+      {
+        "AntecedentProducts": "Aura Natural Mineral Water 600ml",
+        "ConsequentProducts": "Lays Nori Seaweed Potato Chips 50g",
+        "support": 0.0376,
+        "confidence": 0.4834,
+        "lift": 6.1364,
+        "leverage": 0.0315,
+        "conviction": 1.7833
+      },
+      {
+        "AntecedentProducts": "Lays Nori Seaweed Potato Chips 50g",
+        "ConsequentProducts": "Aura Natural Mineral Water 600ml",
+        "support": 0.0376,
+        "confidence": 0.4778,
+        "lift": 6.1364,
+        "leverage": 0.0315,
+        "conviction": 1.7659
+      },
+      {
+        "AntecedentProducts": "Singha Drinking Water 600ml",
+        "ConsequentProducts": "Ezy Choice Basil Pork with Rice 220g",
+        "support": 0.0375,
+        "confidence": 0.4803,
+        "lift": 6.1029,
+        "leverage": 0.0314,
+        "conviction": 1.7728
+      },
+      {
+        "AntecedentProducts": "Ezy Choice Basil Pork with Rice 220g",
+        "ConsequentProducts": "Singha Drinking Water 600ml",
+        "support": 0.0375,
+        "confidence": 0.4768,
+        "lift": 6.1029,
+        "leverage": 0.0314,
+        "conviction": 1.7621
+      },
+      {
+        "AntecedentProducts": "Betagro Boiled Egg 2-pack 100g",
+        "ConsequentProducts": "Mama Minced Pork Noodles 67g",
+        "support": 0.0375,
+        "confidence": 0.4817,
+        "lift": 6.0738,
+        "leverage": 0.0313,
+        "conviction": 1.7764
+      }
+    ],
+    "RuleVerifications": [
+      {
+        "Antecedent": "CP Sausage Roll Pastry 80g",
+        "Consequent": "Nescafe Espresso Roast 180ml",
+        "RuleSupport": 0.0371,
+        "EmpiricalSupport": 0.0371,
+        "RuleConfidence": 0.8431,
+        "EmpiricalConfidence": 0.8431,
+        "RuleLift": 10.7385,
+        "EmpiricalLift": 10.7384,
+        "IsVerified": true
+      },
+      {
+        "Antecedent": "Nescafe Espresso Roast 180ml",
+        "Consequent": "CP Sausage Roll Pastry 80g",
+        "RuleSupport": 0.0371,
+        "EmpiricalSupport": 0.0371,
+        "RuleConfidence": 0.4731,
+        "EmpiricalConfidence": 0.4731,
+        "RuleLift": 10.7385,
+        "EmpiricalLift": 10.7373,
+        "IsVerified": true
+      },
+      {
+        "Antecedent": "Le Pan Butter Sponge Cake 65g",
+        "Consequent": "Meiji Chocolate Milk 450ml",
+        "RuleSupport": 0.0373,
+        "EmpiricalSupport": 0.0373,
+        "RuleConfidence": 0.8422,
+        "EmpiricalConfidence": 0.8422,
+        "RuleLift": 10.619,
+        "EmpiricalLift": 10.6191,
+        "IsVerified": true
+      }
+    ]
+  },
+  "Validation": {
+    "Checks": {
+      "OLAP_Reconciliation_Quantity": true,
+      "OLAP_Reconciliation_Revenue": true,
+      "OLAP_Reconciliation_Profit": true,
+      "KMeans_ProductCount": true,
+      "KMeans_ClusterCount": true,
+      "KMeans_SilhouettePositive": true,
+      "KMeans_NoEmptyClusters": true,
+      "Assoc_TotalTxns": true,
+      "Assoc_MultiItemBaskets": true,
+      "Assoc_RulesCount": true,
+      "Assoc_AllRulesMeetThresholds": true,
+      "Assoc_EmpiricalVerification": true,
+      "Assoc_CrossStoreIntegrity": true
+    },
+    "AllPassed": true,
+    "TotalChecks": 13
+  }
+}

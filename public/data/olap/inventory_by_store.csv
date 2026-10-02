@@ -1,0 +1,11 @@
+StoreKey,StoreID,StoreName,Region,Province,AverageEndingStock,TotalStockIn,TotalStockOut,SnapshotCount,NormalCount,OutOfStockCount,OverstockCount,ReorderCount
+1,STR-001,QuickMart Siam Square,Central,Bangkok,45.35,8370,8746,17745,16760,40,491,454
+6,STR-006,QuickMart Nimman Chiang Mai,North,Chiang Mai,45.04,7091,7584,17745,17138,19,186,402
+9,STR-009,QuickMart Phuket Old Town,South,Phuket,45.8,7668,8003,17745,17049,19,228,449
+8,STR-008,QuickMart Pattaya Beach,East,Chonburi,46.61,8110,8248,17745,17133,18,253,341
+2,STR-002,QuickMart Silom Complex,Central,Bangkok,45.11,7636,8071,17745,17189,16,145,395
+7,STR-007,QuickMart Phitsanulok Station,North,Phitsanulok,44.55,5010,5611,17745,17349,10,44,342
+3,STR-003,QuickMart Khon Kaen Univ,Isan,Khon Kaen,44.97,6958,7323,17745,16948,1,411,385
+4,STR-004,QuickMart Korat City,Isan,Nakhon Ratchasima,44.63,6460,6391,17745,17284,0,108,353
+5,STR-005,QuickMart Ubon Mall,Isan,Ubon Ratchathani,46.29,4908,5308,17745,17312,0,246,187
+10,STR-010,QuickMart Hat Yai Center,South,Songkhla,46.06,6183,6456,17745,17345,0,127,273

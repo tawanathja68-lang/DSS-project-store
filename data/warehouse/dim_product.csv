@@ -1,0 +1,66 @@
+ProductKey,ProductID,ProductName,Category,SubCategory,Brand,UnitCost,UnitPrice,ReorderPoint,MaxStockLevel,Supplier,IsActive
+1,PRD-BEV-001,Aura Natural Mineral Water 600ml,Beverages,Mineral Water,Aura,6.00,12.00,25,100,Tipco F&B,TRUE
+2,PRD-BEV-002,Singha Drinking Water 600ml,Beverages,Drinking Water,Singha,4.50,7.00,35,150,Boon Rawd Brewery,TRUE
+3,PRD-BEV-003,Crystal Drinking Water 600ml,Beverages,Drinking Water,Crystal,4.50,7.00,35,150,Sermsuk,TRUE
+4,PRD-BEV-004,Coca-Cola Original 325ml,Beverages,Carbonated Soft Drink,Coca-Cola,9.50,16.00,30,120,ThaiNamthip,TRUE
+5,PRD-BEV-005,Pepsi Original 325ml,Beverages,Carbonated Soft Drink,Pepsi,9.50,16.00,30,120,Suntory PepsiCo,TRUE
+6,PRD-BEV-006,Oishi Green Tea Honey Lemon 500ml,Beverages,Ready-to-Drink Tea,Oishi,12.00,20.00,25,90,Oishi Group,TRUE
+7,PRD-BEV-007,Ichitan Green Tea Original 500ml,Beverages,Ready-to-Drink Tea,Ichitan,12.00,20.00,25,90,Ichitan Group,TRUE
+8,PRD-BEV-008,Birdy Robusta Canned Coffee 180ml,Beverages,Canned Coffee,Birdy,10.00,17.00,30,100,Ajinomoto,TRUE
+9,PRD-BEV-009,Nescafe Espresso Roast 180ml,Beverages,Canned Coffee,Nescafe,10.00,17.00,30,100,Nestle Thailand,TRUE
+10,PRD-BEV-010,M-150 Energy Drink 150ml,Beverages,Energy Drink,M-150,7.00,12.00,25,100,Osotspa,TRUE
+11,PRD-BEV-011,Carabao Dang Energy Drink 150ml,Beverages,Energy Drink,Carabao,6.50,10.00,25,100,Carabao Tawandang,TRUE
+12,PRD-BEV-012,Minute Maid Pulpy Orange 335ml,Beverages,Fruit Juice,Minute Maid,12.50,20.00,20,80,ThaiNamthip,TRUE
+13,PRD-SNK-001,Lays Classic Potato Chips 50g,Snacks,Potato Chips,Lays,17.00,25.00,25,90,Pepsi-Cola Thai,TRUE
+14,PRD-SNK-002,Lays Nori Seaweed Potato Chips 50g,Snacks,Potato Chips,Lays,17.00,25.00,25,90,Pepsi-Cola Thai,TRUE
+15,PRD-SNK-003,Tasto Barbecue Potato Chips 52g,Snacks,Potato Chips,Tasto,16.50,24.00,20,80,Berli Jucker,TRUE
+16,PRD-SNK-004,Bento Squid Sweet & Spicy 20g,Snacks,Seafood Snack,Bento,13.00,20.00,25,90,Srinanaporn,TRUE
+17,PRD-SNK-005,Tao Kae Noi Crispy Seaweed 32g,Snacks,Seaweed,Tao Kae Noi,25.00,39.00,20,70,Taokaenoi Food,TRUE
+18,PRD-SNK-006,Koh-Kae Coated Peanuts Coconut 85g,Snacks,Nut Snack,Koh-Kae,16.00,25.00,20,80,Mae-Ruay,TRUE
+19,PRD-SNK-007,Pocky Chocolate Biscuit Stick 45g,Snacks,Biscuit & Wafer,Pocky,14.00,22.00,25,90,Thai Glico,TRUE
+20,PRD-SNK-008,Oreo Original Sandwich Cookies 120g,Snacks,Cookies,Oreo,22.00,35.00,20,80,Mondelez,TRUE
+21,PRD-SNK-009,Pretz Corn Flavour 37g,Snacks,Biscuit Stick,Pretz,10.00,16.00,20,70,Thai Glico,TRUE
+22,PRD-SNK-010,Sunbites Mixed Grains BBQ 56g,Snacks,Healthy Snack,Sunbites,14.00,20.00,15,60,Pepsi-Cola Thai,TRUE
+23,PRD-INS-001,Mama Tom Yum Goong Noodles 67g,Instant Food,Instant Noodles,Mama,5.50,8.00,40,160,Thai President Foods,TRUE
+24,PRD-INS-002,Mama Minced Pork Noodles 67g,Instant Food,Instant Noodles,Mama,5.50,8.00,40,160,Thai President Foods,TRUE
+25,PRD-INS-003,Mama Cup Noodles Tom Yum Goong 60g,Instant Food,Cup Noodles,Mama,10.50,15.00,30,120,Thai President Foods,TRUE
+26,PRD-INS-004,Wai Wai Quick Zabb Tom Klong 60g,Instant Food,Instant Noodles,Wai Wai,5.50,8.00,30,120,Thai Preserved Food,TRUE
+27,PRD-INS-005,Yum Yum Chang Noi Corn Flavour 20g,Instant Food,Mini Noodles,Yum Yum,3.00,5.00,30,120,Wan Thai Foods,TRUE
+28,PRD-INS-006,Samyang Buldak Hot Chicken Ramen 140g,Instant Food,Korean Ramen,Samyang,36.00,52.00,15,60,Sin Chew Import,TRUE
+29,PRD-INS-007,Knorr Cup Porridge Pork 35g,Instant Food,Instant Porridge,Knorr,12.50,18.00,20,80,Unilever Thai,TRUE
+30,PRD-INS-008,Roza Ready Stewed Pork with Rice 200g,Instant Food,Retort Pouch Meal,Roza,32.00,45.00,15,60,Hi-Q Food Products,TRUE
+31,PRD-RTE-001,CP Smoked Cocktail Sausage 120g,Ready-to-Eat,Chilled Sausage,CP,28.00,42.00,20,70,Charoen Pokphand Foods,TRUE
+32,PRD-RTE-002,CP Pork Steamed Buns 100g,Ready-to-Eat,Dim Sum & Buns,CP,14.00,22.00,18,60,Charoen Pokphand Foods,TRUE
+33,PRD-RTE-003,CP Onigiri Salmon Teriyaki 100g,Ready-to-Eat,Rice Ball Onigiri,CP,21.00,32.00,15,50,Charoen Pokphand Foods,TRUE
+34,PRD-RTE-004,Ezy Choice Basil Pork with Rice 220g,Ready-to-Eat,Chilled Meal Box,Ezy Choice,32.00,49.00,15,60,CP All,TRUE
+35,PRD-RTE-005,Ezy Choice Macaroni Chicken 200g,Ready-to-Eat,Chilled Pasta Box,Ezy Choice,30.00,45.00,15,60,CP All,TRUE
+36,PRD-RTE-006,Betagro Boiled Egg 2-pack 100g,Ready-to-Eat,Chilled Eggs,Betagro,11.50,18.00,25,80,Betagro Group,TRUE
+37,PRD-RTE-007,CP Chicken Frank Sausage 140g,Ready-to-Eat,Chilled Sausage,CP,26.00,39.00,20,70,Charoen Pokphand Foods,TRUE
+38,PRD-RTE-008,CP Fried Rice with Crab Meat 200g,Ready-to-Eat,Chilled Meal Box,CP,34.00,52.00,15,55,Charoen Pokphand Foods,TRUE
+39,PRD-BAK-001,Farmhouse White Bread 480g,Bakery,Sliced Loaf Bread,Farmhouse,30.00,44.00,15,50,President Bakery,TRUE
+40,PRD-BAK-002,Farmhouse Whole Wheat Bread 480g,Bakery,Sliced Loaf Bread,Farmhouse,32.00,47.00,15,50,President Bakery,TRUE
+41,PRD-BAK-003,Farmhouse Ham & Cheese Sandwich,Bakery,Fresh Sandwich,Farmhouse,21.00,32.00,15,50,President Bakery,TRUE
+42,PRD-BAK-004,Le Pan Butter Sponge Cake 65g,Bakery,Cake & Pastry,Le Pan,9.00,15.00,20,70,CP All,TRUE
+43,PRD-BAK-005,Le Pan Chocolate Lava Bun 70g,Bakery,Sweet Bun,Le Pan,13.00,20.00,20,70,CP All,TRUE
+44,PRD-BAK-006,Farmhouse Custard Bread Roll 60g,Bakery,Filled Bun,Farmhouse,10.00,16.00,20,70,President Bakery,TRUE
+45,PRD-BAK-007,CP Sausage Roll Pastry 80g,Bakery,Savory Pastry,CP,18.00,28.00,15,60,Charoen Pokphand Foods,TRUE
+46,PRD-BAK-008,Butter Croissant Plain 60g,Bakery,Viennoiserie,QuickMart Bakery,16.00,26.00,15,50,QuickMart In-Store,TRUE
+47,PRD-DAI-001,Meiji Pasteurized Fresh Milk 450ml,Dairy,Fresh Milk,Meiji,18.50,27.00,20,70,CP-Meiji,TRUE
+48,PRD-DAI-002,Meiji Chocolate Milk 450ml,Dairy,Flavored Milk,Meiji,18.50,27.00,20,70,CP-Meiji,TRUE
+49,PRD-DAI-003,Dutch Mill Drinking Yogurt Berry 400ml,Dairy,Yogurt Drink,Dutch Mill,15.00,23.00,20,70,Dutch Mill Group,TRUE
+50,PRD-DAI-004,Dutchie Cup Yogurt Berry 135g,Dairy,Cup Yogurt,Dutchie,10.00,15.00,20,70,Dutch Mill Group,TRUE
+51,PRD-DAI-005,Lactasoy Soy Milk Original 300ml,Dairy,Soy Milk,Lactasoy,8.00,12.00,25,90,Lactasoy,TRUE
+52,PRD-DAI-006,Foremost UHT Chocolate Milk 225ml,Dairy,UHT Milk,Foremost,9.50,14.00,25,90,FrieslandCampina,TRUE
+53,PRD-DAI-007,Betagen Fermented Milk Light 300ml,Dairy,Probiotic Drink,Betagen,15.00,22.00,20,70,Betagen,TRUE
+54,PRD-DAI-008,Meiji Bulgarian Yogurt Natural 110g,Dairy,Premium Yogurt,Meiji,14.50,22.00,15,60,CP-Meiji,TRUE
+55,PRD-PER-001,Colgate Total Toothpaste 150g,Personal Care,Oral Care,Colgate,55.00,89.00,10,40,Colgate-Palmolive,TRUE
+56,PRD-PER-002,Darlie Double Action Toothpaste 140g,Personal Care,Oral Care,Darlie,42.00,65.00,10,40,Hawley & Hazel,TRUE
+57,PRD-PER-003,Head & Shoulders Menthol 160ml,Personal Care,Hair Care,Head & Shoulders,52.00,79.00,10,40,Procter & Gamble,TRUE
+58,PRD-PER-004,Shokubutsu Shower Cream 200ml,Personal Care,Body Wash,Shokubutsu,40.00,62.00,10,40,Lion Corporation,TRUE
+59,PRD-PER-005,Nivea Men Extra White Foam 100g,Personal Care,Facial Cleanser,Nivea,82.00,129.00,8,30,Beiersdorf,TRUE
+60,PRD-PER-006,Care Baby Powder Gentle 160g,Personal Care,Talcum Powder,Care,25.00,38.00,12,45,Colgate-Palmolive,TRUE
+61,PRD-HOU-001,Breeze Liquid Detergent 750ml,Household,Laundry,Breeze,65.00,99.00,10,40,Unilever Thai,TRUE
+62,PRD-HOU-002,Comfort Fabric Softener 540ml,Household,Fabric Care,Comfort,38.00,59.00,10,40,Unilever Thai,TRUE
+63,PRD-HOU-003,Sunlight Dishwashing Liquid 500ml,Household,Dishwashing,Sunlight,22.00,34.00,15,60,Unilever Thai,TRUE
+64,PRD-HOU-004,Scott Extra Toilet Tissue 6 Rolls,Household,Tissue Paper,Scott,58.00,89.00,10,40,Kimberly-Clark,TRUE
+65,PRD-HOU-005,Magiclean Floor Cleaner Berry 800ml,Household,Surface Cleaner,Magiclean,38.00,58.00,10,40,Kao Consumer,TRUE

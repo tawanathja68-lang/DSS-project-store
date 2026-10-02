@@ -1,0 +1,116 @@
+{
+  "GrandTotals": {
+    "TotalSales": 1595166.51,
+    "TotalCost": 1095490.0,
+    "TotalProfit": 499676.51,
+    "TotalQuantity": 71885,
+    "TransactionCount": 26327,
+    "AverageTransactionValue": 60.59,
+    "OverallProfitMargin": 31.32,
+    "RowCount": 51551
+  },
+  "Reconciliation": {
+    "TargetSales": 1595166.51,
+    "ByProduct": 1595166.51,
+    "ByStore": 1595166.51,
+    "ByMonth": 1595166.51,
+    "ByCategory": 1595166.51,
+    "ByRegion": 1595166.51,
+    "IsReconciled": true
+  },
+  "Slices": {
+    "SliceA_Region_Isan": {
+      "TotalSales": 424934.58,
+      "TotalCost": 291826.5,
+      "TotalProfit": 133108.08,
+      "TotalQuantity": 19022,
+      "TransactionCount": 6966,
+      "AverageTransactionValue": 61.0,
+      "OverallProfitMargin": 31.32,
+      "RowCount": 13669
+    },
+    "SliceB_Category_Beverages": {
+      "TotalSales": 287571.01,
+      "TotalCost": 179051.5,
+      "TotalProfit": 108519.51,
+      "TotalQuantity": 21807,
+      "TransactionCount": 13430,
+      "AverageTransactionValue": 21.41,
+      "OverallProfitMargin": 37.74,
+      "RowCount": 15357
+    },
+    "SliceC_Quarter_Q2": {
+      "TotalSales": 544304.94,
+      "TotalCost": 374213.5,
+      "TotalProfit": 170091.44,
+      "TotalQuantity": 24544,
+      "TransactionCount": 8918,
+      "AverageTransactionValue": 61.03,
+      "OverallProfitMargin": 31.25,
+      "RowCount": 17542
+    },
+    "SliceD_Store_SiamSquare": {
+      "TotalSales": 191969.79,
+      "TotalCost": 131437.0,
+      "TotalProfit": 60532.79,
+      "TotalQuantity": 8797,
+      "TransactionCount": 3196,
+      "AverageTransactionValue": 60.07,
+      "OverallProfitMargin": 31.53,
+      "RowCount": 6261
+    }
+  },
+  "Dices": {
+    "DiceA": {
+      "TotalSales": 26360.1,
+      "TotalCost": 16418.0,
+      "TotalProfit": 9942.1,
+      "TotalQuantity": 1990,
+      "TransactionCount": 1213,
+      "AverageTransactionValue": 21.73,
+      "OverallProfitMargin": 37.72,
+      "RowCount": 1402
+    },
+    "DiceB": {
+      "TotalSales": 7530.95,
+      "TotalCost": 5211.5,
+      "TotalProfit": 2319.45,
+      "TotalQuantity": 220,
+      "TransactionCount": 162,
+      "AverageTransactionValue": 46.49,
+      "OverallProfitMargin": 30.8,
+      "RowCount": 169
+    },
+    "DiceC": {
+      "TotalSales": 73765.0,
+      "TotalCost": 47977.5,
+      "TotalProfit": 25787.5,
+      "TotalQuantity": 3134,
+      "TransactionCount": 1155,
+      "AverageTransactionValue": 63.87,
+      "OverallProfitMargin": 34.96,
+      "RowCount": 2267
+    },
+    "DiceD": {
+      "TotalSales": 123329.89,
+      "TotalCost": 82813.0,
+      "TotalProfit": 40516.89,
+      "TotalQuantity": 6393,
+      "TransactionCount": 2984,
+      "AverageTransactionValue": 41.33,
+      "OverallProfitMargin": 32.85,
+      "RowCount": 4588
+    }
+  },
+  "Inventory": {
+    "TotalSnapshots": 177450,
+    "AverageEndingStock": 45.44,
+    "LastDayPhysicalStock": 29796,
+    "StatusDistribution": {
+      "NORMAL": 171507,
+      "REORDER": 3581,
+      "OVERSTOCK": 2239,
+      "OUT OF STOCK": 123
+    }
+  }
+}

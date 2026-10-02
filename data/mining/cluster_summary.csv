@@ -1,0 +1,4 @@
+Cluster,ProductCount,AverageQuantity,AverageRevenue,AverageProfitMargin,BusinessLabel,BusinessInterpretation
+0,11,2925.2,73804.28,28.81,High Revenue Anchors (Core Volume),"Top revenue drivers with exceptional sales volume (2,900+ units); fundamental store staples requiring high availability."
+1,43,301.3,9274.12,31.15,Long-Tail Assortment (Steady Movers),Selective demand and steady turnover (43 SKUs); provides essential category variety but requires lean inventory control.
+2,11,2431.8,34957.46,36.36,High Margin Boosters (Profitable Fast-Movers),"High volume (2,400+ units) paired with highest profit margin (36.36%); star items driving net store profitability."

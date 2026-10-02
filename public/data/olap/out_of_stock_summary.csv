@@ -1,0 +1,22 @@
+ProductKey,ProductID,ProductName,Category,StoreKey,StoreName,Region,OutOfStockDays,TotalStockOutLost
+34,PRD-RTE-004,Ezy Choice Basil Pork with Rice 220g,Ready-to-Eat,1,QuickMart Siam Square,Central,15,1
+34,PRD-RTE-004,Ezy Choice Basil Pork with Rice 220g,Ready-to-Eat,2,QuickMart Silom Complex,Central,12,4
+31,PRD-RTE-001,CP Smoked Cocktail Sausage 120g,Ready-to-Eat,1,QuickMart Siam Square,Central,9,2
+39,PRD-BAK-001,Farmhouse White Bread 480g,Bakery,7,QuickMart Phitsanulok Station,North,9,5
+6,PRD-BEV-006,Oishi Green Tea Honey Lemon 500ml,Beverages,6,QuickMart Nimman Chiang Mai,North,9,5
+34,PRD-RTE-004,Ezy Choice Basil Pork with Rice 220g,Ready-to-Eat,8,QuickMart Pattaya Beach,East,8,3
+41,PRD-BAK-003,Farmhouse Ham & Cheese Sandwich,Bakery,6,QuickMart Nimman Chiang Mai,North,8,4
+41,PRD-BAK-003,Farmhouse Ham & Cheese Sandwich,Bakery,9,QuickMart Phuket Old Town,South,7,4
+8,PRD-BEV-008,Birdy Robusta Canned Coffee 180ml,Beverages,1,QuickMart Siam Square,Central,7,1
+47,PRD-DAI-001,Meiji Pasteurized Fresh Milk 450ml,Dairy,8,QuickMart Pattaya Beach,East,7,4
+39,PRD-BAK-001,Farmhouse White Bread 480g,Bakery,9,QuickMart Phuket Old Town,South,6,2
+1,PRD-BEV-001,Aura Natural Mineral Water 600ml,Beverages,9,QuickMart Phuket Old Town,South,6,2
+41,PRD-BAK-003,Farmhouse Ham & Cheese Sandwich,Bakery,1,QuickMart Siam Square,Central,5,2
+47,PRD-DAI-001,Meiji Pasteurized Fresh Milk 450ml,Dairy,1,QuickMart Siam Square,Central,4,1
+8,PRD-BEV-008,Birdy Robusta Canned Coffee 180ml,Beverages,2,QuickMart Silom Complex,Central,2,1
+13,PRD-SNK-001,Lays Classic Potato Chips 50g,Snacks,2,QuickMart Silom Complex,Central,2,2
+14,PRD-SNK-002,Lays Nori Seaweed Potato Chips 50g,Snacks,8,QuickMart Pattaya Beach,East,2,1
+34,PRD-RTE-004,Ezy Choice Basil Pork with Rice 220g,Ready-to-Eat,6,QuickMart Nimman Chiang Mai,North,2,2
+34,PRD-RTE-004,Ezy Choice Basil Pork with Rice 220g,Ready-to-Eat,7,QuickMart Phitsanulok Station,North,1,1
+39,PRD-BAK-001,Farmhouse White Bread 480g,Bakery,8,QuickMart Pattaya Beach,East,1,1
+45,PRD-BAK-007,CP Sausage Roll Pastry 80g,Bakery,3,QuickMart Khon Kaen Univ,Isan,1,1

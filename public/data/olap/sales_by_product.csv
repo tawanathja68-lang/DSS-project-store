@@ -1,0 +1,66 @@
+ProductKey,ProductID,ProductName,Category,SubCategory,Brand,TotalSales,TotalCost,TotalProfit,TotalQuantity,TransactionCount,LineItemCount,AverageTransactionValue,OverallProfitMargin
+34,PRD-RTE-004,Ezy Choice Basil Pork with Rice 220g,Ready-to-Eat,Chilled Meal Box,Ezy Choice,124468.33,85760.0,38708.33,2680,2072,2072,60.07,31.1
+39,PRD-BAK-001,Farmhouse White Bread 480g,Bakery,Sliced Loaf Bread,Farmhouse,113388.44,81660.0,31728.44,2722,2050,2050,55.31,27.98
+31,PRD-RTE-001,CP Smoked Cocktail Sausage 120g,Ready-to-Eat,Chilled Sausage,CP,108359.58,76412.0,31947.58,2729,2054,2054,52.76,29.48
+41,PRD-BAK-003,Farmhouse Ham & Cheese Sandwich,Bakery,Fresh Sandwich,Farmhouse,83183.36,57477.0,25706.36,2737,2023,2023,41.12,30.9
+47,PRD-DAI-001,Meiji Pasteurized Fresh Milk 450ml,Dairy,Fresh Milk,Meiji,71532.45,51781.5,19750.95,2799,2088,2088,34.26,27.61
+48,PRD-DAI-002,Meiji Chocolate Milk 450ml,Dairy,Flavored Milk,Meiji,69199.38,50320.0,18879.38,2720,2088,2088,33.14,27.28
+14,PRD-SNK-002,Lays Nori Seaweed Potato Chips 50g,Snacks,Potato Chips,Lays,65976.25,47413.0,18563.25,2789,2074,2074,31.81,28.14
+13,PRD-SNK-001,Lays Classic Potato Chips 50g,Snacks,Potato Chips,Lays,65433.0,47039.0,18394.0,2767,2076,2076,31.52,28.11
+16,PRD-SNK-004,Bento Squid Sweet & Spicy 20g,Snacks,Seafood Snack,Bento,54579.2,37323.0,17256.2,2871,2115,2115,25.81,31.62
+6,PRD-BEV-006,Oishi Green Tea Honey Lemon 500ml,Beverages,Ready-to-Drink Tea,Oishi,52536.8,33180.0,19356.8,2765,2024,2024,25.96,36.84
+36,PRD-RTE-006,Betagro Boiled Egg 2-pack 100g,Ready-to-Eat,Chilled Eggs,Betagro,46750.14,31579.0,15171.14,2746,2051,2051,22.79,32.45
+8,PRD-BEV-008,Birdy Robusta Canned Coffee 180ml,Beverages,Canned Coffee,Birdy,44547.31,27680.0,16867.31,2768,2058,2058,21.65,37.86
+9,PRD-BEV-009,Nescafe Espresso Roast 180ml,Beverages,Canned Coffee,Nescafe,44435.11,27510.0,16925.11,2751,2067,2067,21.5,38.09
+4,PRD-BEV-004,Coca-Cola Original 325ml,Beverages,Carbonated Soft Drink,Coca-Cola,42048.96,26391.0,15657.96,2778,2095,2095,20.07,37.24
+45,PRD-BAK-007,CP Sausage Roll Pastry 80g,Bakery,Savory Pastry,CP,41606.04,28170.0,13436.04,1565,1160,1160,35.87,32.29
+59,PRD-PER-005,Nivea Men Extra White Foam 100g,Personal Care,Facial Cleanser,Nivea,32675.7,21894.0,10781.7,267,190,190,171.98,33.0
+1,PRD-BEV-001,Aura Natural Mineral Water 600ml,Beverages,Mineral Water,Aura,30990.72,16338.0,14652.72,2723,2050,2050,15.12,47.28
+24,PRD-INS-002,Mama Minced Pork Noodles 67g,Instant Food,Instant Noodles,Mama,28126.56,20471.0,7655.56,3722,2088,2088,13.47,27.22
+23,PRD-INS-001,Mama Tom Yum Goong Noodles 67g,Instant Food,Instant Noodles,Mama,27600.56,20025.5,7575.06,3641,2090,2090,13.21,27.45
+2,PRD-BEV-002,Singha Drinking Water 600ml,Beverages,Drinking Water,Singha,23604.21,16015.5,7588.71,3559,2057,2057,11.48,32.15
+61,PRD-HOU-001,Breeze Liquid Detergent 750ml,Household,Laundry,Breeze,23509.53,16315.0,7194.53,251,178,178,132.08,30.6
+64,PRD-HOU-004,Scott Extra Toilet Tissue 6 Rolls,Household,Tissue Paper,Scott,22944.2,15834.0,7110.2,273,204,204,112.47,30.99
+5,PRD-BEV-005,Pepsi Original 325ml,Beverages,Carbonated Soft Drink,Pepsi,22274.56,14003.0,8271.56,1474,1121,1121,19.87,37.13
+42,PRD-BAK-004,Le Pan Butter Sponge Cake 65g,Bakery,Cake & Pastry,Le Pan,22022.4,14049.0,7973.4,1561,1166,1166,18.89,36.21
+25,PRD-INS-003,Mama Cup Noodles Tom Yum Goong 60g,Instant Food,Cup Noodles,Mama,21170.85,15645.0,5525.85,1490,1142,1142,18.54,26.1
+57,PRD-PER-003,Head & Shoulders Menthol 160ml,Personal Care,Hair Care,Head & Shoulders,18324.84,12636.0,5688.84,243,186,186,98.52,31.04
+51,PRD-DAI-005,Lactasoy Soy Milk Original 300ml,Dairy,Soy Milk,Lactasoy,17775.6,12528.0,5247.6,1566,1174,1174,15.14,29.52
+55,PRD-PER-001,Colgate Total Toothpaste 150g,Personal Care,Oral Care,Colgate,17612.21,11440.0,6172.21,208,171,171,103.0,35.05
+56,PRD-PER-002,Darlie Double Action Toothpaste 140g,Personal Care,Oral Care,Darlie,14818.05,10080.0,4738.05,240,180,180,82.32,31.97
+65,PRD-HOU-005,Magiclean Floor Cleaner Berry 800ml,Household,Surface Cleaner,Magiclean,13993.66,9652.0,4341.66,254,189,189,74.04,31.03
+3,PRD-BEV-003,Crystal Drinking Water 600ml,Beverages,Drinking Water,Crystal,13715.8,9270.0,4445.8,2060,1189,1189,11.54,32.41
+58,PRD-PER-004,Shokubutsu Shower Cream 200ml,Personal Care,Body Wash,Shokubutsu,13191.12,9080.0,4111.12,227,174,174,75.81,31.17
+62,PRD-HOU-002,Comfort Fabric Softener 540ml,Household,Fabric Care,Comfort,12328.64,8550.0,3778.64,225,174,174,70.85,30.65
+40,PRD-BAK-002,Farmhouse Whole Wheat Bread 480g,Bakery,Sliced Loaf Bread,Farmhouse,11182.24,7936.0,3246.24,248,176,176,63.54,29.03
+35,PRD-RTE-005,Ezy Choice Macaroni Chicken 200g,Ready-to-Eat,Chilled Pasta Box,Ezy Choice,11030.4,7740.0,3290.4,258,187,187,58.99,29.83
+38,PRD-RTE-008,CP Fried Rice with Crab Meat 200g,Ready-to-Eat,Chilled Meal Box,CP,10780.12,7514.0,3266.12,221,169,169,63.79,30.3
+60,PRD-PER-006,Care Baby Powder Gentle 160g,Personal Care,Talcum Powder,Care,10228.46,7050.0,3178.46,282,209,209,48.94,31.07
+28,PRD-INS-006,Samyang Buldak Hot Chicken Ramen 140g,Instant Food,Korean Ramen,Samyang,10065.64,7380.0,2685.64,205,158,158,63.71,26.68
+30,PRD-INS-008,Roza Ready Stewed Pork with Rice 200g,Instant Food,Retort Pouch Meal,Roza,9713.7,7360.0,2353.7,230,177,177,54.88,24.23
+17,PRD-SNK-005,Tao Kae Noi Crispy Seaweed 32g,Snacks,Seaweed,Tao Kae Noi,9177.09,6175.0,3002.09,247,180,180,50.98,32.71
+63,PRD-HOU-003,Sunlight Dishwashing Liquid 500ml,Household,Dishwashing,Sunlight,8520.06,5830.0,2690.06,265,194,194,43.92,31.57
+37,PRD-RTE-007,CP Chicken Frank Sausage 140g,Ready-to-Eat,Chilled Sausage,CP,8425.56,5902.0,2523.56,227,163,163,51.69,29.95
+20,PRD-SNK-008,Oreo Original Sandwich Cookies 120g,Snacks,Cookies,Oreo,8088.15,5346.0,2742.15,243,188,188,43.02,33.9
+46,PRD-BAK-008,Butter Croissant Plain 60g,Bakery,Viennoiserie,QuickMart Bakery,6805.5,4400.0,2405.5,275,194,194,35.08,35.35
+33,PRD-RTE-003,CP Onigiri Salmon Teriyaki 100g,Ready-to-Eat,Rice Ball Onigiri,CP,6755.84,4704.0,2051.84,224,172,172,39.28,30.37
+18,PRD-SNK-006,Koh-Kae Coated Peanuts Coconut 85g,Snacks,Nut Snack,Koh-Kae,6121.0,4128.0,1993.0,258,191,191,32.05,32.56
+54,PRD-DAI-008,Meiji Bulgarian Yogurt Natural 110g,Dairy,Premium Yogurt,Meiji,5379.66,3697.5,1682.16,255,186,186,28.92,31.27
+49,PRD-DAI-003,Dutch Mill Drinking Yogurt Berry 400ml,Dairy,Yogurt Drink,Dutch Mill,5153.84,3555.0,1598.84,237,177,177,29.12,31.02
+32,PRD-RTE-002,CP Pork Steamed Buns 100g,Ready-to-Eat,Dim Sum & Buns,CP,4952.64,3332.0,1620.64,238,178,178,27.82,32.72
+15,PRD-SNK-003,Tasto Barbecue Potato Chips 52g,Snacks,Potato Chips,Tasto,4877.04,3514.5,1362.54,213,157,157,31.06,27.94
+19,PRD-SNK-007,Pocky Chocolate Biscuit Stick 45g,Snacks,Biscuit & Wafer,Pocky,4792.26,3192.0,1600.26,228,165,165,29.04,33.39
+53,PRD-DAI-007,Betagen Fermented Milk Light 300ml,Dairy,Probiotic Drink,Betagen,4659.16,3330.0,1329.16,222,175,175,26.62,28.53
+22,PRD-SNK-010,Sunbites Mixed Grains BBQ 56g,Snacks,Healthy Snack,Sunbites,4465.4,3290.0,1175.4,235,172,172,25.96,26.32
+43,PRD-BAK-005,Le Pan Chocolate Lava Bun 70g,Bakery,Sweet Bun,Le Pan,4417.6,3068.0,1349.6,236,180,180,24.54,30.55
+12,PRD-BEV-012,Minute Maid Pulpy Orange 335ml,Beverages,Fruit Juice,Minute Maid,4158.8,2750.0,1408.8,220,156,156,26.66,33.88
+7,PRD-BEV-007,Ichitan Green Tea Original 500ml,Beverages,Ready-to-Drink Tea,Ichitan,4127.2,2580.0,1547.2,215,169,169,24.42,37.49
+29,PRD-INS-007,Knorr Cup Porridge Pork 35g,Instant Food,Instant Porridge,Knorr,3960.9,2900.0,1060.9,232,181,181,21.88,26.78
+52,PRD-DAI-006,Foremost UHT Chocolate Milk 225ml,Dairy,UHT Milk,Foremost,3642.24,2593.5,1048.74,273,198,198,18.4,28.79
+21,PRD-SNK-009,Pretz Corn Flavour 37g,Snacks,Biscuit Stick,Pretz,3580.32,2360.0,1220.32,236,173,173,20.7,34.08
+44,PRD-BAK-006,Farmhouse Custard Bread Roll 60g,Bakery,Filled Bun,Farmhouse,3539.84,2350.0,1189.84,235,180,180,19.67,33.61
+50,PRD-DAI-004,Dutchie Cup Yogurt Berry 135g,Dairy,Cup Yogurt,Dutchie,3531.15,2480.0,1051.15,248,179,179,19.73,29.77
+10,PRD-BEV-010,M-150 Energy Drink 150ml,Beverages,Energy Drink,M-150,2784.24,1722.0,1062.24,246,187,187,14.89,38.15
+11,PRD-BEV-011,Carabao Dang Energy Drink 150ml,Beverages,Energy Drink,Carabao,2347.3,1612.0,735.3,248,184,184,12.76,31.33
+26,PRD-INS-004,Wai Wai Quick Zabb Tom Klong 60g,Instant Food,Instant Noodles,Wai Wai,1940.4,1397.0,543.4,254,190,190,10.21,28.0
+27,PRD-INS-005,Yum Yum Chang Noi Corn Flavour 20g,Instant Food,Mini Noodles,Yum Yum,1239.2,780.0,459.2,260,188,188,6.59,37.06

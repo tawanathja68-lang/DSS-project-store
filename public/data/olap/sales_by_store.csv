@@ -1,0 +1,11 @@
+StoreKey,StoreID,StoreName,Region,Province,StoreType,TotalSales,TotalCost,TotalProfit,TotalQuantity,TransactionCount,LineItemCount,AverageTransactionValue,OverallProfitMargin
+1,STR-001,QuickMart Siam Square,Central,Bangkok,Commercial Area,191969.79,131437.0,60532.79,8797,3196,6261,60.07,31.53
+8,STR-008,QuickMart Pattaya Beach,East,Chonburi,Tourist Beach,180404.85,123920.0,56484.85,8283,3077,5960,58.63,31.31
+2,STR-002,QuickMart Silom Complex,Central,Bangkok,Office Mall,178660.3,122738.5,55921.8,8078,2950,5744,60.56,31.3
+9,STR-009,QuickMart Phuket Old Town,South,Phuket,Tourist Town,176290.91,120854.0,55436.91,8025,2959,5728,59.58,31.45
+6,STR-006,QuickMart Nimman Chiang Mai,North,Chiang Mai,Tourist Urban,171580.76,117962.0,53618.76,7608,2780,5506,61.72,31.25
+3,STR-003,QuickMart Khon Kaen Univ,Isan,Khon Kaen,University Campus,164496.86,113016.5,51480.36,7323,2684,5321,61.29,31.3
+10,STR-010,QuickMart Hat Yai Center,South,Songkhla,Downtown Commercial,144143.19,99267.5,44875.69,6456,2354,4618,61.23,31.13
+4,STR-004,QuickMart Korat City,Isan,Nakhon Ratchasima,Standalone,141433.62,97129.0,44304.62,6391,2300,4530,61.49,31.33
+7,STR-007,QuickMart Phitsanulok Station,North,Phitsanulok,Transit Station,127182.13,87484.5,39697.63,5616,2045,4065,62.19,31.21
+5,STR-005,QuickMart Ubon Mall,Isan,Ubon Ratchathani,Community Mall,119004.1,81681.0,37323.1,5308,1982,3818,60.04,31.36

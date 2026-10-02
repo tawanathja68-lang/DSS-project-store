@@ -1,0 +1,8 @@
+﻿PromotionKey,PromotionID,PromotionName,PromotionType,DiscountPercent,StartDate,EndDate,IsActive
+0,PRM-NONE,"No Promotion","Regular Price",0.00,2026-01-01,2026-09-30,TRUE
+1,PRM-WEND-01,"Weekend Super Sale","Percentage Discount",10.00,2026-01-01,2026-09-30,TRUE
+2,PRM-SUMM-02,"Summer Refresh Chill","Seasonal Discount",15.00,2026-03-01,2026-05-31,TRUE
+3,PRM-MEMB-03,"QuickMart VIP Member Day","Member Discount",12.00,2026-01-01,2026-09-30,TRUE
+4,PRM-BNDL-04,"Breakfast & Snack Bundle","Bundle Discount",20.00,2026-02-01,2026-08-31,TRUE
+5,PRM-RAIN-05,"Monsoon Mega Flash Sale","Flash Discount",25.00,2026-06-01,2026-07-31,TRUE
+6,PRM-PAYD-06,"Payday Special Treat","Payday Promo",10.00,2026-01-25,2026-09-30,TRUE

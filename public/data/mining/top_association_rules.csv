@@ -1,0 +1,16 @@
+AntecedentProducts,ConsequentProducts,support,confidence,lift,leverage,conviction
+CP Sausage Roll Pastry 80g,Nescafe Espresso Roast 180ml,0.0371,0.8431,10.7385,0.0337,5.8732
+Nescafe Espresso Roast 180ml,CP Sausage Roll Pastry 80g,0.0371,0.4731,10.7385,0.0337,1.8144
+Le Pan Butter Sponge Cake 65g,Meiji Chocolate Milk 450ml,0.0373,0.8422,10.619,0.0338,5.8344
+Meiji Chocolate Milk 450ml,Le Pan Butter Sponge Cake 65g,0.0373,0.4703,10.619,0.0338,1.8043
+Farmhouse White Bread 480g,Meiji Pasteurized Fresh Milk 450ml,0.0391,0.502,6.329,0.0329,1.8486
+Meiji Pasteurized Fresh Milk 450ml,Farmhouse White Bread 480g,0.0391,0.4928,6.329,0.0329,1.8181
+Oishi Green Tea Honey Lemon 500ml,Bento Squid Sweet & Spicy 20g,0.0387,0.503,6.2608,0.0325,1.8503
+Bento Squid Sweet & Spicy 20g,Oishi Green Tea Honey Lemon 500ml,0.0387,0.4813,6.2608,0.0325,1.7798
+Farmhouse Ham & Cheese Sandwich,Birdy Robusta Canned Coffee 180ml,0.0371,0.4834,6.1844,0.0311,1.7846
+Birdy Robusta Canned Coffee 180ml,Farmhouse Ham & Cheese Sandwich,0.0371,0.4752,6.1844,0.0311,1.7591
+Aura Natural Mineral Water 600ml,Lays Nori Seaweed Potato Chips 50g,0.0376,0.4834,6.1364,0.0315,1.7833
+Lays Nori Seaweed Potato Chips 50g,Aura Natural Mineral Water 600ml,0.0376,0.4778,6.1364,0.0315,1.7659
+Singha Drinking Water 600ml,Ezy Choice Basil Pork with Rice 220g,0.0375,0.4803,6.1029,0.0314,1.7728
+Ezy Choice Basil Pork with Rice 220g,Singha Drinking Water 600ml,0.0375,0.4768,6.1029,0.0314,1.7621
+Betagro Boiled Egg 2-pack 100g,Mama Minced Pork Noodles 67g,0.0375,0.4817,6.0738,0.0313,1.7764

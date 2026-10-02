@@ -1,0 +1,11 @@
+StoreKey,StoreID,StoreName,Region,Province,StoreType,OpenDate,IsActive
+1,STR-001,QuickMart Siam Square,Central,Bangkok,Commercial Area,2021-01-15,TRUE
+2,STR-002,QuickMart Silom Complex,Central,Bangkok,Office Mall,2021-06-20,TRUE
+3,STR-003,QuickMart Khon Kaen Univ,Isan,Khon Kaen,University Campus,2022-03-10,TRUE
+4,STR-004,QuickMart Korat City,Isan,Nakhon Ratchasima,Standalone,2022-08-05,TRUE
+5,STR-005,QuickMart Ubon Mall,Isan,Ubon Ratchathani,Community Mall,2023-02-14,TRUE
+6,STR-006,QuickMart Nimman Chiang Mai,North,Chiang Mai,Tourist Urban,2021-11-01,TRUE
+7,STR-007,QuickMart Phitsanulok Station,North,Phitsanulok,Transit Station,2022-05-18,TRUE
+8,STR-008,QuickMart Pattaya Beach,East,Chonburi,Tourist Beach,2022-12-01,TRUE
+9,STR-009,QuickMart Phuket Old Town,South,Phuket,Tourist Town,2022-04-22,TRUE
+10,STR-010,QuickMart Hat Yai Center,South,Songkhla,Downtown Commercial,2023-07-30,TRUE

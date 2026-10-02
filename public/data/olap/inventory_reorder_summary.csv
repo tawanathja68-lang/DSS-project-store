@@ -1,0 +1,440 @@
+ProductKey,ProductID,ProductName,Category,StoreKey,StoreName,Region,ReorderFrequency,AvgEndingStockDuringReorder,ReorderPoint,MaxStockLevel
+39,PRD-BAK-001,Farmhouse White Bread 480g,Bakery,9,QuickMart Phuket Old Town,South,52,10.44,15,50
+31,PRD-RTE-001,CP Smoked Cocktail Sausage 120g,Ready-to-Eat,1,QuickMart Siam Square,Central,49,11.16,20,70
+6,PRD-BEV-006,Oishi Green Tea Honey Lemon 500ml,Beverages,6,QuickMart Nimman Chiang Mai,North,48,15.23,25,90
+1,PRD-BEV-001,Aura Natural Mineral Water 600ml,Beverages,2,QuickMart Silom Complex,Central,41,17.39,25,100
+51,PRD-DAI-005,Lactasoy Soy Milk Original 300ml,Dairy,7,QuickMart Phitsanulok Station,North,39,18.51,25,90
+45,PRD-BAK-007,CP Sausage Roll Pastry 80g,Bakery,8,QuickMart Pattaya Beach,East,38,11.87,15,60
+8,PRD-BEV-008,Birdy Robusta Canned Coffee 180ml,Beverages,4,QuickMart Korat City,Isan,38,20.63,30,100
+16,PRD-SNK-004,Bento Squid Sweet & Spicy 20g,Snacks,3,QuickMart Khon Kaen Univ,Isan,37,14.62,25,90
+14,PRD-SNK-002,Lays Nori Seaweed Potato Chips 50g,Snacks,2,QuickMart Silom Complex,Central,36,18.75,25,90
+4,PRD-BEV-004,Coca-Cola Original 325ml,Beverages,10,QuickMart Hat Yai Center,South,35,24.4,30,120
+14,PRD-SNK-002,Lays Nori Seaweed Potato Chips 50g,Snacks,5,QuickMart Ubon Mall,Isan,34,18.15,25,90
+36,PRD-RTE-006,Betagro Boiled Egg 2-pack 100g,Ready-to-Eat,6,QuickMart Nimman Chiang Mai,North,33,19.52,25,80
+41,PRD-BAK-003,Farmhouse Ham & Cheese Sandwich,Bakery,1,QuickMart Siam Square,Central,32,8.59,15,50
+41,PRD-BAK-003,Farmhouse Ham & Cheese Sandwich,Bakery,6,QuickMart Nimman Chiang Mai,North,31,10.06,15,50
+39,PRD-BAK-001,Farmhouse White Bread 480g,Bakery,8,QuickMart Pattaya Beach,East,31,10.19,15,50
+41,PRD-BAK-003,Farmhouse Ham & Cheese Sandwich,Bakery,9,QuickMart Phuket Old Town,South,31,10.97,15,50
+34,PRD-RTE-004,Ezy Choice Basil Pork with Rice 220g,Ready-to-Eat,2,QuickMart Silom Complex,Central,30,9.17,15,60
+24,PRD-INS-002,Mama Minced Pork Noodles 67g,Instant Food,7,QuickMart Phitsanulok Station,North,29,31.48,40,160
+34,PRD-RTE-004,Ezy Choice Basil Pork with Rice 220g,Ready-to-Eat,9,QuickMart Phuket Old Town,South,29,12.28,15,60
+8,PRD-BEV-008,Birdy Robusta Canned Coffee 180ml,Beverages,1,QuickMart Siam Square,Central,28,17.32,30,100
+36,PRD-RTE-006,Betagro Boiled Egg 2-pack 100g,Ready-to-Eat,1,QuickMart Siam Square,Central,28,17.71,25,80
+41,PRD-BAK-003,Farmhouse Ham & Cheese Sandwich,Bakery,2,QuickMart Silom Complex,Central,27,11.22,15,50
+14,PRD-SNK-002,Lays Nori Seaweed Potato Chips 50g,Snacks,3,QuickMart Khon Kaen Univ,Isan,27,19.3,25,90
+48,PRD-DAI-002,Meiji Chocolate Milk 450ml,Dairy,3,QuickMart Khon Kaen Univ,Isan,27,15.22,20,70
+47,PRD-DAI-001,Meiji Pasteurized Fresh Milk 450ml,Dairy,3,QuickMart Khon Kaen Univ,Isan,27,13.44,20,70
+39,PRD-BAK-001,Farmhouse White Bread 480g,Bakery,6,QuickMart Nimman Chiang Mai,North,26,12.54,15,50
+1,PRD-BEV-001,Aura Natural Mineral Water 600ml,Beverages,1,QuickMart Siam Square,Central,26,17.38,25,100
+6,PRD-BEV-006,Oishi Green Tea Honey Lemon 500ml,Beverages,2,QuickMart Silom Complex,Central,25,16.12,25,90
+42,PRD-BAK-004,Le Pan Butter Sponge Cake 65g,Bakery,6,QuickMart Nimman Chiang Mai,North,25,17.28,20,70
+31,PRD-RTE-001,CP Smoked Cocktail Sausage 120g,Ready-to-Eat,5,QuickMart Ubon Mall,Isan,25,16.72,20,70
+48,PRD-DAI-002,Meiji Chocolate Milk 450ml,Dairy,9,QuickMart Phuket Old Town,South,24,12.21,20,70
+13,PRD-SNK-001,Lays Classic Potato Chips 50g,Snacks,2,QuickMart Silom Complex,Central,24,16.58,25,90
+47,PRD-DAI-001,Meiji Pasteurized Fresh Milk 450ml,Dairy,1,QuickMart Siam Square,Central,24,12.29,20,70
+36,PRD-RTE-006,Betagro Boiled Egg 2-pack 100g,Ready-to-Eat,9,QuickMart Phuket Old Town,South,24,20.17,25,80
+34,PRD-RTE-004,Ezy Choice Basil Pork with Rice 220g,Ready-to-Eat,4,QuickMart Korat City,Isan,24,11.25,15,60
+34,PRD-RTE-004,Ezy Choice Basil Pork with Rice 220g,Ready-to-Eat,7,QuickMart Phitsanulok Station,North,24,7.46,15,60
+8,PRD-BEV-008,Birdy Robusta Canned Coffee 180ml,Beverages,2,QuickMart Silom Complex,Central,23,17.13,30,100
+4,PRD-BEV-004,Coca-Cola Original 325ml,Beverages,9,QuickMart Phuket Old Town,South,23,19.78,30,120
+39,PRD-BAK-001,Farmhouse White Bread 480g,Bakery,5,QuickMart Ubon Mall,Isan,23,12.04,15,50
+51,PRD-DAI-005,Lactasoy Soy Milk Original 300ml,Dairy,1,QuickMart Siam Square,Central,23,16.78,25,90
+36,PRD-RTE-006,Betagro Boiled Egg 2-pack 100g,Ready-to-Eat,2,QuickMart Silom Complex,Central,23,17.04,25,80
+1,PRD-BEV-001,Aura Natural Mineral Water 600ml,Beverages,7,QuickMart Phitsanulok Station,North,23,17.83,25,100
+1,PRD-BEV-001,Aura Natural Mineral Water 600ml,Beverages,4,QuickMart Korat City,Isan,23,12.52,25,100
+24,PRD-INS-002,Mama Minced Pork Noodles 67g,Instant Food,3,QuickMart Khon Kaen Univ,Isan,23,30.35,40,160
+6,PRD-BEV-006,Oishi Green Tea Honey Lemon 500ml,Beverages,1,QuickMart Siam Square,Central,23,18.13,25,90
+42,PRD-BAK-004,Le Pan Butter Sponge Cake 65g,Bakery,9,QuickMart Phuket Old Town,South,22,17.64,20,70
+24,PRD-INS-002,Mama Minced Pork Noodles 67g,Instant Food,9,QuickMart Phuket Old Town,South,22,32.36,40,160
+13,PRD-SNK-001,Lays Classic Potato Chips 50g,Snacks,8,QuickMart Pattaya Beach,East,22,19.82,25,90
+16,PRD-SNK-004,Bento Squid Sweet & Spicy 20g,Snacks,7,QuickMart Phitsanulok Station,North,22,19.0,25,90
+8,PRD-BEV-008,Birdy Robusta Canned Coffee 180ml,Beverages,8,QuickMart Pattaya Beach,East,22,24.86,30,100
+9,PRD-BEV-009,Nescafe Espresso Roast 180ml,Beverages,4,QuickMart Korat City,Isan,22,25.23,30,100
+31,PRD-RTE-001,CP Smoked Cocktail Sausage 120g,Ready-to-Eat,9,QuickMart Phuket Old Town,South,21,12.38,20,70
+40,PRD-BAK-002,Farmhouse Whole Wheat Bread 480g,Bakery,4,QuickMart Korat City,Isan,21,9.71,15,50
+24,PRD-INS-002,Mama Minced Pork Noodles 67g,Instant Food,4,QuickMart Korat City,Isan,21,32.67,40,160
+62,PRD-HOU-002,Comfort Fabric Softener 540ml,Household,10,QuickMart Hat Yai Center,South,21,9.43,10,40
+14,PRD-SNK-002,Lays Nori Seaweed Potato Chips 50g,Snacks,8,QuickMart Pattaya Beach,East,21,14.48,25,90
+9,PRD-BEV-009,Nescafe Espresso Roast 180ml,Beverages,7,QuickMart Phitsanulok Station,North,21,24.48,30,100
+63,PRD-HOU-003,Sunlight Dishwashing Liquid 500ml,Household,6,QuickMart Nimman Chiang Mai,North,21,15.0,15,60
+55,PRD-PER-001,Colgate Total Toothpaste 150g,Personal Care,1,QuickMart Siam Square,Central,20,6.3,10,40
+3,PRD-BEV-003,Crystal Drinking Water 600ml,Beverages,10,QuickMart Hat Yai Center,South,20,15.35,35,150
+58,PRD-PER-004,Shokubutsu Shower Cream 200ml,Personal Care,4,QuickMart Korat City,Isan,20,10.0,10,40
+4,PRD-BEV-004,Coca-Cola Original 325ml,Beverages,2,QuickMart Silom Complex,Central,20,23.25,30,120
+48,PRD-DAI-002,Meiji Chocolate Milk 450ml,Dairy,10,QuickMart Hat Yai Center,South,20,17.35,20,70
+1,PRD-BEV-001,Aura Natural Mineral Water 600ml,Beverages,9,QuickMart Phuket Old Town,South,20,14.3,25,100
+47,PRD-DAI-001,Meiji Pasteurized Fresh Milk 450ml,Dairy,8,QuickMart Pattaya Beach,East,20,13.6,20,70
+13,PRD-SNK-001,Lays Classic Potato Chips 50g,Snacks,1,QuickMart Siam Square,Central,20,19.15,25,90
+42,PRD-BAK-004,Le Pan Butter Sponge Cake 65g,Bakery,1,QuickMart Siam Square,Central,20,16.7,20,70
+14,PRD-SNK-002,Lays Nori Seaweed Potato Chips 50g,Snacks,1,QuickMart Siam Square,Central,20,14.6,25,90
+64,PRD-HOU-004,Scott Extra Toilet Tissue 6 Rolls,Household,7,QuickMart Phitsanulok Station,North,20,9.4,10,40
+31,PRD-RTE-001,CP Smoked Cocktail Sausage 120g,Ready-to-Eat,2,QuickMart Silom Complex,Central,20,15.05,20,70
+2,PRD-BEV-002,Singha Drinking Water 600ml,Beverages,7,QuickMart Phitsanulok Station,North,19,24.05,35,150
+34,PRD-RTE-004,Ezy Choice Basil Pork with Rice 220g,Ready-to-Eat,6,QuickMart Nimman Chiang Mai,North,19,10.26,15,60
+6,PRD-BEV-006,Oishi Green Tea Honey Lemon 500ml,Beverages,8,QuickMart Pattaya Beach,East,19,21.68,25,90
+45,PRD-BAK-007,CP Sausage Roll Pastry 80g,Bakery,3,QuickMart Khon Kaen Univ,Isan,19,7.84,15,60
+25,PRD-INS-003,Mama Cup Noodles Tom Yum Goong 60g,Instant Food,6,QuickMart Nimman Chiang Mai,North,19,27.89,30,120
+14,PRD-SNK-002,Lays Nori Seaweed Potato Chips 50g,Snacks,10,QuickMart Hat Yai Center,South,19,16.68,25,90
+16,PRD-SNK-004,Bento Squid Sweet & Spicy 20g,Snacks,6,QuickMart Nimman Chiang Mai,North,19,17.84,25,90
+13,PRD-SNK-001,Lays Classic Potato Chips 50g,Snacks,9,QuickMart Phuket Old Town,South,19,19.58,25,90
+1,PRD-BEV-001,Aura Natural Mineral Water 600ml,Beverages,3,QuickMart Khon Kaen Univ,Isan,19,19.68,25,100
+31,PRD-RTE-001,CP Smoked Cocktail Sausage 120g,Ready-to-Eat,7,QuickMart Phitsanulok Station,North,18,15.83,20,70
+5,PRD-BEV-005,Pepsi Original 325ml,Beverages,1,QuickMart Siam Square,Central,18,22.5,30,120
+47,PRD-DAI-001,Meiji Pasteurized Fresh Milk 450ml,Dairy,7,QuickMart Phitsanulok Station,North,18,16.39,20,70
+28,PRD-INS-006,Samyang Buldak Hot Chicken Ramen 140g,Instant Food,3,QuickMart Khon Kaen Univ,Isan,18,13.33,15,60
+23,PRD-INS-001,Mama Tom Yum Goong Noodles 67g,Instant Food,9,QuickMart Phuket Old Town,South,18,29.0,40,160
+57,PRD-PER-003,Head & Shoulders Menthol 160ml,Personal Care,2,QuickMart Silom Complex,Central,18,7.78,10,40
+51,PRD-DAI-005,Lactasoy Soy Milk Original 300ml,Dairy,4,QuickMart Korat City,Isan,18,21.61,25,90
+50,PRD-DAI-004,Dutchie Cup Yogurt Berry 135g,Dairy,4,QuickMart Korat City,Isan,18,18.06,20,70
+59,PRD-PER-005,Nivea Men Extra White Foam 100g,Personal Care,8,QuickMart Pattaya Beach,East,18,7.28,8,30
+39,PRD-BAK-001,Farmhouse White Bread 480g,Bakery,7,QuickMart Phitsanulok Station,North,18,10.5,15,50
+8,PRD-BEV-008,Birdy Robusta Canned Coffee 180ml,Beverages,9,QuickMart Phuket Old Town,South,18,26.22,30,100
+2,PRD-BEV-002,Singha Drinking Water 600ml,Beverages,3,QuickMart Khon Kaen Univ,Isan,18,26.72,35,150
+6,PRD-BEV-006,Oishi Green Tea Honey Lemon 500ml,Beverages,3,QuickMart Khon Kaen Univ,Isan,18,21.33,25,90
+8,PRD-BEV-008,Birdy Robusta Canned Coffee 180ml,Beverages,10,QuickMart Hat Yai Center,South,17,24.47,30,100
+2,PRD-BEV-002,Singha Drinking Water 600ml,Beverages,9,QuickMart Phuket Old Town,South,17,28.24,35,150
+30,PRD-INS-008,Roza Ready Stewed Pork with Rice 200g,Instant Food,6,QuickMart Nimman Chiang Mai,North,17,13.65,15,60
+13,PRD-SNK-001,Lays Classic Potato Chips 50g,Snacks,3,QuickMart Khon Kaen Univ,Isan,17,18.71,25,90
+33,PRD-RTE-003,CP Onigiri Salmon Teriyaki 100g,Ready-to-Eat,3,QuickMart Khon Kaen Univ,Isan,17,13.18,15,50
+37,PRD-RTE-007,CP Chicken Frank Sausage 140g,Ready-to-Eat,9,QuickMart Phuket Old Town,South,16,16.88,20,70
+42,PRD-BAK-004,Le Pan Butter Sponge Cake 65g,Bakery,7,QuickMart Phitsanulok Station,North,16,17.88,20,70
+4,PRD-BEV-004,Coca-Cola Original 325ml,Beverages,6,QuickMart Nimman Chiang Mai,North,16,24.06,30,120
+34,PRD-RTE-004,Ezy Choice Basil Pork with Rice 220g,Ready-to-Eat,3,QuickMart Khon Kaen Univ,Isan,16,10.12,15,60
+47,PRD-DAI-001,Meiji Pasteurized Fresh Milk 450ml,Dairy,4,QuickMart Korat City,Isan,15,18.73,20,70
+57,PRD-PER-003,Head & Shoulders Menthol 160ml,Personal Care,6,QuickMart Nimman Chiang Mai,North,15,9.0,10,40
+9,PRD-BEV-009,Nescafe Espresso Roast 180ml,Beverages,9,QuickMart Phuket Old Town,South,15,25.07,30,100
+15,PRD-SNK-003,Tasto Barbecue Potato Chips 52g,Snacks,1,QuickMart Siam Square,Central,14,19.79,20,80
+51,PRD-DAI-005,Lactasoy Soy Milk Original 300ml,Dairy,6,QuickMart Nimman Chiang Mai,North,14,22.93,25,90
+34,PRD-RTE-004,Ezy Choice Basil Pork with Rice 220g,Ready-to-Eat,1,QuickMart Siam Square,Central,14,12.0,15,60
+34,PRD-RTE-004,Ezy Choice Basil Pork with Rice 220g,Ready-to-Eat,8,QuickMart Pattaya Beach,East,14,12.43,15,60
+59,PRD-PER-005,Nivea Men Extra White Foam 100g,Personal Care,4,QuickMart Korat City,Isan,13,7.0,8,30
+41,PRD-BAK-003,Farmhouse Ham & Cheese Sandwich,Bakery,8,QuickMart Pattaya Beach,East,13,14.0,15,50
+39,PRD-BAK-001,Farmhouse White Bread 480g,Bakery,2,QuickMart Silom Complex,Central,13,12.62,15,50
+41,PRD-BAK-003,Farmhouse Ham & Cheese Sandwich,Bakery,4,QuickMart Korat City,Isan,12,14.5,15,50
+65,PRD-HOU-005,Magiclean Floor Cleaner Berry 800ml,Household,8,QuickMart Pattaya Beach,East,12,9.33,10,40
+39,PRD-BAK-001,Farmhouse White Bread 480g,Bakery,1,QuickMart Siam Square,Central,11,13.64,15,50
+41,PRD-BAK-003,Farmhouse Ham & Cheese Sandwich,Bakery,3,QuickMart Khon Kaen Univ,Isan,11,13.91,15,50
+41,PRD-BAK-003,Farmhouse Ham & Cheese Sandwich,Bakery,7,QuickMart Phitsanulok Station,North,11,14.09,15,50
+41,PRD-BAK-003,Farmhouse Ham & Cheese Sandwich,Bakery,5,QuickMart Ubon Mall,Isan,11,14.55,15,50
+39,PRD-BAK-001,Farmhouse White Bread 480g,Bakery,4,QuickMart Korat City,Isan,11,13.73,15,50
+39,PRD-BAK-001,Farmhouse White Bread 480g,Bakery,3,QuickMart Khon Kaen Univ,Isan,11,14.27,15,50
+31,PRD-RTE-001,CP Smoked Cocktail Sausage 120g,Ready-to-Eat,3,QuickMart Khon Kaen Univ,Isan,11,17.55,20,70
+39,PRD-BAK-001,Farmhouse White Bread 480g,Bakery,10,QuickMart Hat Yai Center,South,10,14.4,15,50
+48,PRD-DAI-002,Meiji Chocolate Milk 450ml,Dairy,1,QuickMart Siam Square,Central,10,19.0,20,70
+2,PRD-BEV-002,Singha Drinking Water 600ml,Beverages,10,QuickMart Hat Yai Center,South,10,26.1,35,150
+48,PRD-DAI-002,Meiji Chocolate Milk 450ml,Dairy,6,QuickMart Nimman Chiang Mai,North,9,19.33,20,70
+16,PRD-SNK-004,Bento Squid Sweet & Spicy 20g,Snacks,8,QuickMart Pattaya Beach,East,9,23.56,25,90
+16,PRD-SNK-004,Bento Squid Sweet & Spicy 20g,Snacks,9,QuickMart Phuket Old Town,South,9,24.33,25,90
+48,PRD-DAI-002,Meiji Chocolate Milk 450ml,Dairy,8,QuickMart Pattaya Beach,East,9,18.78,20,70
+47,PRD-DAI-001,Meiji Pasteurized Fresh Milk 450ml,Dairy,9,QuickMart Phuket Old Town,South,9,19.33,20,70
+6,PRD-BEV-006,Oishi Green Tea Honey Lemon 500ml,Beverages,9,QuickMart Phuket Old Town,South,8,24.12,25,90
+41,PRD-BAK-003,Farmhouse Ham & Cheese Sandwich,Bakery,10,QuickMart Hat Yai Center,South,8,14.12,15,50
+36,PRD-RTE-006,Betagro Boiled Egg 2-pack 100g,Ready-to-Eat,10,QuickMart Hat Yai Center,South,8,23.88,25,80
+6,PRD-BEV-006,Oishi Green Tea Honey Lemon 500ml,Beverages,4,QuickMart Korat City,Isan,8,24.0,25,90
+47,PRD-DAI-001,Meiji Pasteurized Fresh Milk 450ml,Dairy,6,QuickMart Nimman Chiang Mai,North,8,18.25,20,70
+14,PRD-SNK-002,Lays Nori Seaweed Potato Chips 50g,Snacks,9,QuickMart Phuket Old Town,South,8,24.0,25,90
+47,PRD-DAI-001,Meiji Pasteurized Fresh Milk 450ml,Dairy,2,QuickMart Silom Complex,Central,8,19.0,20,70
+34,PRD-RTE-004,Ezy Choice Basil Pork with Rice 220g,Ready-to-Eat,10,QuickMart Hat Yai Center,South,8,14.38,15,60
+36,PRD-RTE-006,Betagro Boiled Egg 2-pack 100g,Ready-to-Eat,8,QuickMart Pattaya Beach,East,7,23.57,25,80
+8,PRD-BEV-008,Birdy Robusta Canned Coffee 180ml,Beverages,3,QuickMart Khon Kaen Univ,Isan,7,29.29,30,100
+36,PRD-RTE-006,Betagro Boiled Egg 2-pack 100g,Ready-to-Eat,7,QuickMart Phitsanulok Station,North,7,24.43,25,80
+36,PRD-RTE-006,Betagro Boiled Egg 2-pack 100g,Ready-to-Eat,5,QuickMart Ubon Mall,Isan,7,23.86,25,80
+9,PRD-BEV-009,Nescafe Espresso Roast 180ml,Beverages,2,QuickMart Silom Complex,Central,7,27.43,30,100
+31,PRD-RTE-001,CP Smoked Cocktail Sausage 120g,Ready-to-Eat,10,QuickMart Hat Yai Center,South,7,19.57,20,70
+16,PRD-SNK-004,Bento Squid Sweet & Spicy 20g,Snacks,1,QuickMart Siam Square,Central,7,23.71,25,90
+8,PRD-BEV-008,Birdy Robusta Canned Coffee 180ml,Beverages,6,QuickMart Nimman Chiang Mai,North,7,28.0,30,100
+16,PRD-SNK-004,Bento Squid Sweet & Spicy 20g,Snacks,4,QuickMart Korat City,Isan,7,24.14,25,90
+16,PRD-SNK-004,Bento Squid Sweet & Spicy 20g,Snacks,2,QuickMart Silom Complex,Central,7,25.0,25,90
+14,PRD-SNK-002,Lays Nori Seaweed Potato Chips 50g,Snacks,4,QuickMart Korat City,Isan,7,24.86,25,90
+47,PRD-DAI-001,Meiji Pasteurized Fresh Milk 450ml,Dairy,10,QuickMart Hat Yai Center,South,7,19.14,20,70
+48,PRD-DAI-002,Meiji Chocolate Milk 450ml,Dairy,4,QuickMart Korat City,Isan,7,19.14,20,70
+47,PRD-DAI-001,Meiji Pasteurized Fresh Milk 450ml,Dairy,5,QuickMart Ubon Mall,Isan,7,18.71,20,70
+34,PRD-RTE-004,Ezy Choice Basil Pork with Rice 220g,Ready-to-Eat,5,QuickMart Ubon Mall,Isan,7,14.57,15,60
+1,PRD-BEV-001,Aura Natural Mineral Water 600ml,Beverages,6,QuickMart Nimman Chiang Mai,North,6,23.83,25,100
+48,PRD-DAI-002,Meiji Chocolate Milk 450ml,Dairy,2,QuickMart Silom Complex,Central,6,19.5,20,70
+23,PRD-INS-001,Mama Tom Yum Goong Noodles 67g,Instant Food,2,QuickMart Silom Complex,Central,6,37.67,40,160
+23,PRD-INS-001,Mama Tom Yum Goong Noodles 67g,Instant Food,1,QuickMart Siam Square,Central,6,36.5,40,160
+4,PRD-BEV-004,Coca-Cola Original 325ml,Beverages,1,QuickMart Siam Square,Central,6,28.5,30,120
+1,PRD-BEV-001,Aura Natural Mineral Water 600ml,Beverages,8,QuickMart Pattaya Beach,East,6,24.0,25,100
+2,PRD-BEV-002,Singha Drinking Water 600ml,Beverages,1,QuickMart Siam Square,Central,6,32.33,35,150
+16,PRD-SNK-004,Bento Squid Sweet & Spicy 20g,Snacks,5,QuickMart Ubon Mall,Isan,6,23.83,25,90
+31,PRD-RTE-001,CP Smoked Cocktail Sausage 120g,Ready-to-Eat,8,QuickMart Pattaya Beach,East,6,19.17,20,70
+6,PRD-BEV-006,Oishi Green Tea Honey Lemon 500ml,Beverages,5,QuickMart Ubon Mall,Isan,6,23.17,25,90
+36,PRD-RTE-006,Betagro Boiled Egg 2-pack 100g,Ready-to-Eat,3,QuickMart Khon Kaen Univ,Isan,6,24.17,25,80
+4,PRD-BEV-004,Coca-Cola Original 325ml,Beverages,3,QuickMart Khon Kaen Univ,Isan,6,29.33,30,120
+4,PRD-BEV-004,Coca-Cola Original 325ml,Beverages,4,QuickMart Korat City,Isan,6,28.67,30,120
+9,PRD-BEV-009,Nescafe Espresso Roast 180ml,Beverages,1,QuickMart Siam Square,Central,6,28.0,30,100
+9,PRD-BEV-009,Nescafe Espresso Roast 180ml,Beverages,8,QuickMart Pattaya Beach,East,6,28.33,30,100
+31,PRD-RTE-001,CP Smoked Cocktail Sausage 120g,Ready-to-Eat,4,QuickMart Korat City,Isan,6,19.5,20,70
+31,PRD-RTE-001,CP Smoked Cocktail Sausage 120g,Ready-to-Eat,6,QuickMart Nimman Chiang Mai,North,6,18.17,20,70
+24,PRD-INS-002,Mama Minced Pork Noodles 67g,Instant Food,8,QuickMart Pattaya Beach,East,6,37.0,40,160
+24,PRD-INS-002,Mama Minced Pork Noodles 67g,Instant Food,10,QuickMart Hat Yai Center,South,6,38.17,40,160
+45,PRD-BAK-007,CP Sausage Roll Pastry 80g,Bakery,9,QuickMart Phuket Old Town,South,6,14.17,15,60
+13,PRD-SNK-001,Lays Classic Potato Chips 50g,Snacks,6,QuickMart Nimman Chiang Mai,North,6,24.33,25,90
+45,PRD-BAK-007,CP Sausage Roll Pastry 80g,Bakery,1,QuickMart Siam Square,Central,6,14.0,15,60
+42,PRD-BAK-004,Le Pan Butter Sponge Cake 65g,Bakery,8,QuickMart Pattaya Beach,East,5,19.2,20,70
+36,PRD-RTE-006,Betagro Boiled Egg 2-pack 100g,Ready-to-Eat,4,QuickMart Korat City,Isan,5,24.6,25,80
+42,PRD-BAK-004,Le Pan Butter Sponge Cake 65g,Bakery,3,QuickMart Khon Kaen Univ,Isan,5,18.4,20,70
+48,PRD-DAI-002,Meiji Chocolate Milk 450ml,Dairy,7,QuickMart Phitsanulok Station,North,5,19.6,20,70
+51,PRD-DAI-005,Lactasoy Soy Milk Original 300ml,Dairy,9,QuickMart Phuket Old Town,South,5,23.8,25,90
+16,PRD-SNK-004,Bento Squid Sweet & Spicy 20g,Snacks,10,QuickMart Hat Yai Center,South,5,24.2,25,90
+23,PRD-INS-001,Mama Tom Yum Goong Noodles 67g,Instant Food,3,QuickMart Khon Kaen Univ,Isan,5,37.4,40,160
+13,PRD-SNK-001,Lays Classic Potato Chips 50g,Snacks,10,QuickMart Hat Yai Center,South,5,24.0,25,90
+14,PRD-SNK-002,Lays Nori Seaweed Potato Chips 50g,Snacks,6,QuickMart Nimman Chiang Mai,North,5,23.2,25,90
+13,PRD-SNK-001,Lays Classic Potato Chips 50g,Snacks,7,QuickMart Phitsanulok Station,North,5,23.8,25,90
+13,PRD-SNK-001,Lays Classic Potato Chips 50g,Snacks,4,QuickMart Korat City,Isan,5,23.0,25,90
+2,PRD-BEV-002,Singha Drinking Water 600ml,Beverages,6,QuickMart Nimman Chiang Mai,North,5,33.6,35,150
+2,PRD-BEV-002,Singha Drinking Water 600ml,Beverages,2,QuickMart Silom Complex,Central,5,33.0,35,150
+48,PRD-DAI-002,Meiji Chocolate Milk 450ml,Dairy,5,QuickMart Ubon Mall,Isan,5,18.4,20,70
+6,PRD-BEV-006,Oishi Green Tea Honey Lemon 500ml,Beverages,10,QuickMart Hat Yai Center,South,5,24.0,25,90
+9,PRD-BEV-009,Nescafe Espresso Roast 180ml,Beverages,6,QuickMart Nimman Chiang Mai,North,5,29.6,30,100
+42,PRD-BAK-004,Le Pan Butter Sponge Cake 65g,Bakery,10,QuickMart Hat Yai Center,South,5,18.2,20,70
+9,PRD-BEV-009,Nescafe Espresso Roast 180ml,Beverages,3,QuickMart Khon Kaen Univ,Isan,5,29.4,30,100
+9,PRD-BEV-009,Nescafe Espresso Roast 180ml,Beverages,10,QuickMart Hat Yai Center,South,5,29.0,30,100
+45,PRD-BAK-007,CP Sausage Roll Pastry 80g,Bakery,2,QuickMart Silom Complex,Central,5,13.6,15,60
+24,PRD-INS-002,Mama Minced Pork Noodles 67g,Instant Food,2,QuickMart Silom Complex,Central,5,38.2,40,160
+1,PRD-BEV-001,Aura Natural Mineral Water 600ml,Beverages,5,QuickMart Ubon Mall,Isan,4,23.0,25,100
+1,PRD-BEV-001,Aura Natural Mineral Water 600ml,Beverages,10,QuickMart Hat Yai Center,South,4,24.0,25,100
+3,PRD-BEV-003,Crystal Drinking Water 600ml,Beverages,9,QuickMart Phuket Old Town,South,4,30.5,35,150
+51,PRD-DAI-005,Lactasoy Soy Milk Original 300ml,Dairy,2,QuickMart Silom Complex,Central,4,24.25,25,90
+51,PRD-DAI-005,Lactasoy Soy Milk Original 300ml,Dairy,10,QuickMart Hat Yai Center,South,4,24.75,25,90
+14,PRD-SNK-002,Lays Nori Seaweed Potato Chips 50g,Snacks,7,QuickMart Phitsanulok Station,North,4,24.75,25,90
+45,PRD-BAK-007,CP Sausage Roll Pastry 80g,Bakery,5,QuickMart Ubon Mall,Isan,4,14.5,15,60
+45,PRD-BAK-007,CP Sausage Roll Pastry 80g,Bakery,6,QuickMart Nimman Chiang Mai,North,4,14.25,15,60
+45,PRD-BAK-007,CP Sausage Roll Pastry 80g,Bakery,4,QuickMart Korat City,Isan,4,12.25,15,60
+24,PRD-INS-002,Mama Minced Pork Noodles 67g,Instant Food,6,QuickMart Nimman Chiang Mai,North,4,37.25,40,160
+24,PRD-INS-002,Mama Minced Pork Noodles 67g,Instant Food,1,QuickMart Siam Square,Central,4,36.5,40,160
+23,PRD-INS-001,Mama Tom Yum Goong Noodles 67g,Instant Food,10,QuickMart Hat Yai Center,South,4,38.5,40,160
+23,PRD-INS-001,Mama Tom Yum Goong Noodles 67g,Instant Food,6,QuickMart Nimman Chiang Mai,North,4,39.25,40,160
+45,PRD-BAK-007,CP Sausage Roll Pastry 80g,Bakery,10,QuickMart Hat Yai Center,South,4,14.75,15,60
+2,PRD-BEV-002,Singha Drinking Water 600ml,Beverages,8,QuickMart Pattaya Beach,East,4,31.25,35,150
+13,PRD-SNK-001,Lays Classic Potato Chips 50g,Snacks,5,QuickMart Ubon Mall,Isan,4,24.5,25,90
+42,PRD-BAK-004,Le Pan Butter Sponge Cake 65g,Bakery,2,QuickMart Silom Complex,Central,4,19.25,20,70
+5,PRD-BEV-005,Pepsi Original 325ml,Beverages,8,QuickMart Pattaya Beach,East,4,28.75,30,120
+8,PRD-BEV-008,Birdy Robusta Canned Coffee 180ml,Beverages,7,QuickMart Phitsanulok Station,North,4,29.5,30,100
+9,PRD-BEV-009,Nescafe Espresso Roast 180ml,Beverages,5,QuickMart Ubon Mall,Isan,4,30.0,30,100
+6,PRD-BEV-006,Oishi Green Tea Honey Lemon 500ml,Beverages,7,QuickMart Phitsanulok Station,North,4,25.0,25,90
+2,PRD-BEV-002,Singha Drinking Water 600ml,Beverages,4,QuickMart Korat City,Isan,4,34.25,35,150
+2,PRD-BEV-002,Singha Drinking Water 600ml,Beverages,5,QuickMart Ubon Mall,Isan,3,33.67,35,150
+5,PRD-BEV-005,Pepsi Original 325ml,Beverages,2,QuickMart Silom Complex,Central,3,29.67,30,120
+42,PRD-BAK-004,Le Pan Butter Sponge Cake 65g,Bakery,4,QuickMart Korat City,Isan,3,19.67,20,70
+42,PRD-BAK-004,Le Pan Butter Sponge Cake 65g,Bakery,5,QuickMart Ubon Mall,Isan,3,20.0,20,70
+4,PRD-BEV-004,Coca-Cola Original 325ml,Beverages,8,QuickMart Pattaya Beach,East,3,29.67,30,120
+5,PRD-BEV-005,Pepsi Original 325ml,Beverages,6,QuickMart Nimman Chiang Mai,North,3,29.0,30,120
+8,PRD-BEV-008,Birdy Robusta Canned Coffee 180ml,Beverages,5,QuickMart Ubon Mall,Isan,3,29.67,30,100
+51,PRD-DAI-005,Lactasoy Soy Milk Original 300ml,Dairy,3,QuickMart Khon Kaen Univ,Isan,3,24.67,25,90
+51,PRD-DAI-005,Lactasoy Soy Milk Original 300ml,Dairy,8,QuickMart Pattaya Beach,East,3,25.0,25,90
+23,PRD-INS-001,Mama Tom Yum Goong Noodles 67g,Instant Food,4,QuickMart Korat City,Isan,3,38.67,40,160
+23,PRD-INS-001,Mama Tom Yum Goong Noodles 67g,Instant Food,7,QuickMart Phitsanulok Station,North,3,40.0,40,160
+25,PRD-INS-003,Mama Cup Noodles Tom Yum Goong 60g,Instant Food,2,QuickMart Silom Complex,Central,3,29.33,30,120
+25,PRD-INS-003,Mama Cup Noodles Tom Yum Goong 60g,Instant Food,1,QuickMart Siam Square,Central,3,29.33,30,120
+23,PRD-INS-001,Mama Tom Yum Goong Noodles 67g,Instant Food,8,QuickMart Pattaya Beach,East,3,38.67,40,160
+24,PRD-INS-002,Mama Minced Pork Noodles 67g,Instant Food,5,QuickMart Ubon Mall,Isan,3,39.67,40,160
+59,PRD-PER-005,Nivea Men Extra White Foam 100g,Personal Care,2,QuickMart Silom Complex,Central,3,8.0,8,30
+3,PRD-BEV-003,Crystal Drinking Water 600ml,Beverages,1,QuickMart Siam Square,Central,3,35.0,35,150
+3,PRD-BEV-003,Crystal Drinking Water 600ml,Beverages,4,QuickMart Korat City,Isan,3,33.0,35,150
+3,PRD-BEV-003,Crystal Drinking Water 600ml,Beverages,2,QuickMart Silom Complex,Central,3,33.0,35,150
+3,PRD-BEV-003,Crystal Drinking Water 600ml,Beverages,8,QuickMart Pattaya Beach,East,3,33.67,35,150
+65,PRD-HOU-005,Magiclean Floor Cleaner Berry 800ml,Household,2,QuickMart Silom Complex,Central,2,10.0,10,40
+62,PRD-HOU-002,Comfort Fabric Softener 540ml,Household,9,QuickMart Phuket Old Town,South,2,10.0,10,40
+65,PRD-HOU-005,Magiclean Floor Cleaner Berry 800ml,Household,5,QuickMart Ubon Mall,Isan,2,10.0,10,40
+61,PRD-HOU-001,Breeze Liquid Detergent 750ml,Household,3,QuickMart Khon Kaen Univ,Isan,2,10.0,10,40
+64,PRD-HOU-004,Scott Extra Toilet Tissue 6 Rolls,Household,6,QuickMart Nimman Chiang Mai,North,2,8.0,10,40
+63,PRD-HOU-003,Sunlight Dishwashing Liquid 500ml,Household,4,QuickMart Korat City,Isan,2,15.0,15,60
+63,PRD-HOU-003,Sunlight Dishwashing Liquid 500ml,Household,8,QuickMart Pattaya Beach,East,2,14.0,15,60
+63,PRD-HOU-003,Sunlight Dishwashing Liquid 500ml,Household,10,QuickMart Hat Yai Center,South,2,15.0,15,60
+63,PRD-HOU-003,Sunlight Dishwashing Liquid 500ml,Household,9,QuickMart Phuket Old Town,South,2,15.0,15,60
+64,PRD-HOU-004,Scott Extra Toilet Tissue 6 Rolls,Household,4,QuickMart Korat City,Isan,2,10.0,10,40
+64,PRD-HOU-004,Scott Extra Toilet Tissue 6 Rolls,Household,3,QuickMart Khon Kaen Univ,Isan,2,10.0,10,40
+30,PRD-INS-008,Roza Ready Stewed Pork with Rice 200g,Instant Food,5,QuickMart Ubon Mall,Isan,2,14.0,15,60
+30,PRD-INS-008,Roza Ready Stewed Pork with Rice 200g,Instant Food,4,QuickMart Korat City,Isan,2,15.0,15,60
+25,PRD-INS-003,Mama Cup Noodles Tom Yum Goong 60g,Instant Food,7,QuickMart Phitsanulok Station,North,2,30.0,30,120
+25,PRD-INS-003,Mama Cup Noodles Tom Yum Goong 60g,Instant Food,8,QuickMart Pattaya Beach,East,2,30.0,30,120
+25,PRD-INS-003,Mama Cup Noodles Tom Yum Goong 60g,Instant Food,10,QuickMart Hat Yai Center,South,2,30.0,30,120
+25,PRD-INS-003,Mama Cup Noodles Tom Yum Goong 60g,Instant Food,9,QuickMart Phuket Old Town,South,2,30.0,30,120
+5,PRD-BEV-005,Pepsi Original 325ml,Beverages,5,QuickMart Ubon Mall,Isan,2,29.0,30,120
+43,PRD-BAK-005,Le Pan Chocolate Lava Bun 70g,Bakery,7,QuickMart Phitsanulok Station,North,2,18.0,20,70
+4,PRD-BEV-004,Coca-Cola Original 325ml,Beverages,7,QuickMart Phitsanulok Station,North,2,29.5,30,120
+4,PRD-BEV-004,Coca-Cola Original 325ml,Beverages,5,QuickMart Ubon Mall,Isan,2,29.5,30,120
+5,PRD-BEV-005,Pepsi Original 325ml,Beverages,3,QuickMart Khon Kaen Univ,Isan,2,29.5,30,120
+40,PRD-BAK-002,Farmhouse Whole Wheat Bread 480g,Bakery,7,QuickMart Phitsanulok Station,North,2,15.0,15,50
+40,PRD-BAK-002,Farmhouse Whole Wheat Bread 480g,Bakery,10,QuickMart Hat Yai Center,South,2,14.0,15,50
+32,PRD-RTE-002,CP Pork Steamed Buns 100g,Ready-to-Eat,8,QuickMart Pattaya Beach,East,2,18.0,18,60
+32,PRD-RTE-002,CP Pork Steamed Buns 100g,Ready-to-Eat,2,QuickMart Silom Complex,Central,2,18.0,18,60
+35,PRD-RTE-005,Ezy Choice Macaroni Chicken 200g,Ready-to-Eat,9,QuickMart Phuket Old Town,South,2,15.0,15,60
+44,PRD-BAK-006,Farmhouse Custard Bread Roll 60g,Bakery,1,QuickMart Siam Square,Central,2,19.0,20,70
+25,PRD-INS-003,Mama Cup Noodles Tom Yum Goong 60g,Instant Food,5,QuickMart Ubon Mall,Isan,2,29.0,30,120
+38,PRD-RTE-008,CP Fried Rice with Crab Meat 200g,Ready-to-Eat,7,QuickMart Phitsanulok Station,North,2,15.0,15,55
+30,PRD-INS-008,Roza Ready Stewed Pork with Rice 200g,Instant Food,1,QuickMart Siam Square,Central,2,14.0,15,60
+38,PRD-RTE-008,CP Fried Rice with Crab Meat 200g,Ready-to-Eat,3,QuickMart Khon Kaen Univ,Isan,2,13.0,15,55
+3,PRD-BEV-003,Crystal Drinking Water 600ml,Beverages,5,QuickMart Ubon Mall,Isan,2,33.0,35,150
+3,PRD-BEV-003,Crystal Drinking Water 600ml,Beverages,6,QuickMart Nimman Chiang Mai,North,2,31.0,35,150
+12,PRD-BEV-012,Minute Maid Pulpy Orange 335ml,Beverages,10,QuickMart Hat Yai Center,South,2,20.0,20,80
+60,PRD-PER-006,Care Baby Powder Gentle 160g,Personal Care,2,QuickMart Silom Complex,Central,2,12.0,12,45
+59,PRD-PER-005,Nivea Men Extra White Foam 100g,Personal Care,10,QuickMart Hat Yai Center,South,2,7.0,8,30
+59,PRD-PER-005,Nivea Men Extra White Foam 100g,Personal Care,6,QuickMart Nimman Chiang Mai,North,2,8.0,8,30
+17,PRD-SNK-005,Tao Kae Noi Crispy Seaweed 32g,Snacks,2,QuickMart Silom Complex,Central,2,20.0,20,70
+58,PRD-PER-004,Shokubutsu Shower Cream 200ml,Personal Care,10,QuickMart Hat Yai Center,South,2,9.0,10,40
+59,PRD-PER-005,Nivea Men Extra White Foam 100g,Personal Care,1,QuickMart Siam Square,Central,2,8.0,8,30
+58,PRD-PER-004,Shokubutsu Shower Cream 200ml,Personal Care,6,QuickMart Nimman Chiang Mai,North,2,10.0,10,40
+58,PRD-PER-004,Shokubutsu Shower Cream 200ml,Personal Care,3,QuickMart Khon Kaen Univ,Isan,2,8.5,10,40
+45,PRD-BAK-007,CP Sausage Roll Pastry 80g,Bakery,7,QuickMart Phitsanulok Station,North,2,15.0,15,60
+44,PRD-BAK-006,Farmhouse Custard Bread Roll 60g,Bakery,6,QuickMart Nimman Chiang Mai,North,2,20.0,20,70
+21,PRD-SNK-009,Pretz Corn Flavour 37g,Snacks,5,QuickMart Ubon Mall,Isan,2,20.0,20,70
+21,PRD-SNK-009,Pretz Corn Flavour 37g,Snacks,1,QuickMart Siam Square,Central,2,20.0,20,70
+25,PRD-INS-003,Mama Cup Noodles Tom Yum Goong 60g,Instant Food,3,QuickMart Khon Kaen Univ,Isan,2,29.5,30,120
+50,PRD-DAI-004,Dutchie Cup Yogurt Berry 135g,Dairy,7,QuickMart Phitsanulok Station,North,2,20.0,20,70
+50,PRD-DAI-004,Dutchie Cup Yogurt Berry 135g,Dairy,9,QuickMart Phuket Old Town,South,2,18.0,20,70
+52,PRD-DAI-006,Foremost UHT Chocolate Milk 225ml,Dairy,10,QuickMart Hat Yai Center,South,2,23.0,25,90
+55,PRD-PER-001,Colgate Total Toothpaste 150g,Personal Care,2,QuickMart Silom Complex,Central,2,8.0,10,40
+56,PRD-PER-002,Darlie Double Action Toothpaste 140g,Personal Care,2,QuickMart Silom Complex,Central,2,10.0,10,40
+56,PRD-PER-002,Darlie Double Action Toothpaste 140g,Personal Care,1,QuickMart Siam Square,Central,2,8.0,10,40
+54,PRD-DAI-008,Meiji Bulgarian Yogurt Natural 110g,Dairy,8,QuickMart Pattaya Beach,East,2,14.0,15,60
+54,PRD-DAI-008,Meiji Bulgarian Yogurt Natural 110g,Dairy,3,QuickMart Khon Kaen Univ,Isan,2,14.5,15,60
+54,PRD-DAI-008,Meiji Bulgarian Yogurt Natural 110g,Dairy,7,QuickMart Phitsanulok Station,North,2,14.0,15,60
+53,PRD-DAI-007,Betagen Fermented Milk Light 300ml,Dairy,10,QuickMart Hat Yai Center,South,2,20.0,20,70
+54,PRD-DAI-008,Meiji Bulgarian Yogurt Natural 110g,Dairy,2,QuickMart Silom Complex,Central,2,15.0,15,60
+46,PRD-BAK-008,Butter Croissant Plain 60g,Bakery,3,QuickMart Khon Kaen Univ,Isan,2,15.0,15,50
+23,PRD-INS-001,Mama Tom Yum Goong Noodles 67g,Instant Food,5,QuickMart Ubon Mall,Isan,2,38.0,40,160
+46,PRD-BAK-008,Butter Croissant Plain 60g,Bakery,4,QuickMart Korat City,Isan,2,15.0,15,50
+38,PRD-RTE-008,CP Fried Rice with Crab Meat 200g,Ready-to-Eat,1,QuickMart Siam Square,Central,2,15.0,15,55
+35,PRD-RTE-005,Ezy Choice Macaroni Chicken 200g,Ready-to-Eat,8,QuickMart Pattaya Beach,East,2,15.0,15,60
+30,PRD-INS-008,Roza Ready Stewed Pork with Rice 200g,Instant Food,10,QuickMart Hat Yai Center,South,2,13.0,15,60
+40,PRD-BAK-002,Farmhouse Whole Wheat Bread 480g,Bakery,8,QuickMart Pattaya Beach,East,2,15.0,15,50
+32,PRD-RTE-002,CP Pork Steamed Buns 100g,Ready-to-Eat,5,QuickMart Ubon Mall,Isan,2,18.0,18,60
+35,PRD-RTE-005,Ezy Choice Macaroni Chicken 200g,Ready-to-Eat,4,QuickMart Korat City,Isan,2,15.0,15,60
+37,PRD-RTE-007,CP Chicken Frank Sausage 140g,Ready-to-Eat,4,QuickMart Korat City,Isan,2,17.0,20,70
+64,PRD-HOU-004,Scott Extra Toilet Tissue 6 Rolls,Household,8,QuickMart Pattaya Beach,East,2,9.0,10,40
+33,PRD-RTE-003,CP Onigiri Salmon Teriyaki 100g,Ready-to-Eat,10,QuickMart Hat Yai Center,South,2,15.0,15,50
+5,PRD-BEV-005,Pepsi Original 325ml,Beverages,9,QuickMart Phuket Old Town,South,2,29.0,30,120
+62,PRD-HOU-002,Comfort Fabric Softener 540ml,Household,6,QuickMart Nimman Chiang Mai,North,2,5.5,10,40
+62,PRD-HOU-002,Comfort Fabric Softener 540ml,Household,3,QuickMart Khon Kaen Univ,Isan,2,10.0,10,40
+61,PRD-HOU-001,Breeze Liquid Detergent 750ml,Household,7,QuickMart Phitsanulok Station,North,2,9.5,10,40
+60,PRD-PER-006,Care Baby Powder Gentle 160g,Personal Care,8,QuickMart Pattaya Beach,East,2,11.0,12,45
+65,PRD-HOU-005,Magiclean Floor Cleaner Berry 800ml,Household,10,QuickMart Hat Yai Center,South,2,10.0,10,40
+3,PRD-BEV-003,Crystal Drinking Water 600ml,Beverages,7,QuickMart Phitsanulok Station,North,2,35.0,35,150
+65,PRD-HOU-005,Magiclean Floor Cleaner Berry 800ml,Household,9,QuickMart Phuket Old Town,South,2,8.0,10,40
+56,PRD-PER-002,Darlie Double Action Toothpaste 140g,Personal Care,9,QuickMart Phuket Old Town,South,2,10.0,10,40
+18,PRD-SNK-006,Koh-Kae Coated Peanuts Coconut 85g,Snacks,6,QuickMart Nimman Chiang Mai,North,2,20.0,20,80
+58,PRD-PER-004,Shokubutsu Shower Cream 200ml,Personal Care,2,QuickMart Silom Complex,Central,2,8.0,10,40
+57,PRD-PER-003,Head & Shoulders Menthol 160ml,Personal Care,8,QuickMart Pattaya Beach,East,2,10.0,10,40
+56,PRD-PER-002,Darlie Double Action Toothpaste 140g,Personal Care,7,QuickMart Phitsanulok Station,North,2,10.0,10,40
+56,PRD-PER-002,Darlie Double Action Toothpaste 140g,Personal Care,10,QuickMart Hat Yai Center,South,2,9.0,10,40
+56,PRD-PER-002,Darlie Double Action Toothpaste 140g,Personal Care,8,QuickMart Pattaya Beach,East,2,9.0,10,40
+10,PRD-BEV-010,M-150 Energy Drink 150ml,Beverages,10,QuickMart Hat Yai Center,South,2,25.0,25,100
+60,PRD-PER-006,Care Baby Powder Gentle 160g,Personal Care,6,QuickMart Nimman Chiang Mai,North,2,11.5,12,45
+60,PRD-PER-006,Care Baby Powder Gentle 160g,Personal Care,7,QuickMart Phitsanulok Station,North,2,11.0,12,45
+17,PRD-SNK-005,Tao Kae Noi Crispy Seaweed 32g,Snacks,4,QuickMart Korat City,Isan,2,20.0,20,70
+17,PRD-SNK-005,Tao Kae Noi Crispy Seaweed 32g,Snacks,10,QuickMart Hat Yai Center,South,2,18.0,20,70
+57,PRD-PER-003,Head & Shoulders Menthol 160ml,Personal Care,5,QuickMart Ubon Mall,Isan,2,9.0,10,40
+57,PRD-PER-003,Head & Shoulders Menthol 160ml,Personal Care,7,QuickMart Phitsanulok Station,North,2,10.0,10,40
+57,PRD-PER-003,Head & Shoulders Menthol 160ml,Personal Care,3,QuickMart Khon Kaen Univ,Isan,2,10.0,10,40
+57,PRD-PER-003,Head & Shoulders Menthol 160ml,Personal Care,1,QuickMart Siam Square,Central,2,10.0,10,40
+50,PRD-DAI-004,Dutchie Cup Yogurt Berry 135g,Dairy,2,QuickMart Silom Complex,Central,2,19.0,20,70
+49,PRD-DAI-003,Dutch Mill Drinking Yogurt Berry 400ml,Dairy,4,QuickMart Korat City,Isan,2,20.0,20,70
+22,PRD-SNK-010,Sunbites Mixed Grains BBQ 56g,Snacks,3,QuickMart Khon Kaen Univ,Isan,2,15.0,15,60
+46,PRD-BAK-008,Butter Croissant Plain 60g,Bakery,6,QuickMart Nimman Chiang Mai,North,2,14.0,15,50
+50,PRD-DAI-004,Dutchie Cup Yogurt Berry 135g,Dairy,8,QuickMart Pattaya Beach,East,2,20.0,20,70
+43,PRD-BAK-005,Le Pan Chocolate Lava Bun 70g,Bakery,2,QuickMart Silom Complex,Central,1,20.0,20,70
+5,PRD-BEV-005,Pepsi Original 325ml,Beverages,4,QuickMart Korat City,Isan,1,30.0,30,120
+43,PRD-BAK-005,Le Pan Chocolate Lava Bun 70g,Bakery,4,QuickMart Korat City,Isan,1,20.0,20,70
+28,PRD-INS-006,Samyang Buldak Hot Chicken Ramen 140g,Instant Food,1,QuickMart Siam Square,Central,1,14.0,15,60
+26,PRD-INS-004,Wai Wai Quick Zabb Tom Klong 60g,Instant Food,4,QuickMart Korat City,Isan,1,30.0,30,120
+25,PRD-INS-003,Mama Cup Noodles Tom Yum Goong 60g,Instant Food,4,QuickMart Korat City,Isan,1,29.0,30,120
+43,PRD-BAK-005,Le Pan Chocolate Lava Bun 70g,Bakery,8,QuickMart Pattaya Beach,East,1,20.0,20,70
+62,PRD-HOU-002,Comfort Fabric Softener 540ml,Household,7,QuickMart Phitsanulok Station,North,1,10.0,10,40
+62,PRD-HOU-002,Comfort Fabric Softener 540ml,Household,4,QuickMart Korat City,Isan,1,10.0,10,40
+61,PRD-HOU-001,Breeze Liquid Detergent 750ml,Household,10,QuickMart Hat Yai Center,South,1,8.0,10,40
+61,PRD-HOU-001,Breeze Liquid Detergent 750ml,Household,4,QuickMart Korat City,Isan,1,10.0,10,40
+63,PRD-HOU-003,Sunlight Dishwashing Liquid 500ml,Household,5,QuickMart Ubon Mall,Isan,1,15.0,15,60
+64,PRD-HOU-004,Scott Extra Toilet Tissue 6 Rolls,Household,5,QuickMart Ubon Mall,Isan,1,10.0,10,40
+64,PRD-HOU-004,Scott Extra Toilet Tissue 6 Rolls,Household,2,QuickMart Silom Complex,Central,1,10.0,10,40
+64,PRD-HOU-004,Scott Extra Toilet Tissue 6 Rolls,Household,1,QuickMart Siam Square,Central,1,10.0,10,40
+61,PRD-HOU-001,Breeze Liquid Detergent 750ml,Household,9,QuickMart Phuket Old Town,South,1,10.0,10,40
+65,PRD-HOU-005,Magiclean Floor Cleaner Berry 800ml,Household,3,QuickMart Khon Kaen Univ,Isan,1,10.0,10,40
+62,PRD-HOU-002,Comfort Fabric Softener 540ml,Household,2,QuickMart Silom Complex,Central,1,9.0,10,40
+5,PRD-BEV-005,Pepsi Original 325ml,Beverages,7,QuickMart Phitsanulok Station,North,1,27.0,30,120
+43,PRD-BAK-005,Le Pan Chocolate Lava Bun 70g,Bakery,6,QuickMart Nimman Chiang Mai,North,1,19.0,20,70
+40,PRD-BAK-002,Farmhouse Whole Wheat Bread 480g,Bakery,3,QuickMart Khon Kaen Univ,Isan,1,15.0,15,50
+40,PRD-BAK-002,Farmhouse Whole Wheat Bread 480g,Bakery,2,QuickMart Silom Complex,Central,1,15.0,15,50
+37,PRD-RTE-007,CP Chicken Frank Sausage 140g,Ready-to-Eat,3,QuickMart Khon Kaen Univ,Isan,1,19.0,20,70
+32,PRD-RTE-002,CP Pork Steamed Buns 100g,Ready-to-Eat,7,QuickMart Phitsanulok Station,North,1,18.0,18,60
+32,PRD-RTE-002,CP Pork Steamed Buns 100g,Ready-to-Eat,4,QuickMart Korat City,Isan,1,18.0,18,60
+38,PRD-RTE-008,CP Fried Rice with Crab Meat 200g,Ready-to-Eat,2,QuickMart Silom Complex,Central,1,14.0,15,55
+32,PRD-RTE-002,CP Pork Steamed Buns 100g,Ready-to-Eat,1,QuickMart Siam Square,Central,1,18.0,18,60
+35,PRD-RTE-005,Ezy Choice Macaroni Chicken 200g,Ready-to-Eat,6,QuickMart Nimman Chiang Mai,North,1,15.0,15,60
+35,PRD-RTE-005,Ezy Choice Macaroni Chicken 200g,Ready-to-Eat,1,QuickMart Siam Square,Central,1,15.0,15,60
+33,PRD-RTE-003,CP Onigiri Salmon Teriyaki 100g,Ready-to-Eat,8,QuickMart Pattaya Beach,East,1,14.0,15,50
+32,PRD-RTE-002,CP Pork Steamed Buns 100g,Ready-to-Eat,9,QuickMart Phuket Old Town,South,1,17.0,18,60
+40,PRD-BAK-002,Farmhouse Whole Wheat Bread 480g,Bakery,1,QuickMart Siam Square,Central,1,15.0,15,50
+38,PRD-RTE-008,CP Fried Rice with Crab Meat 200g,Ready-to-Eat,8,QuickMart Pattaya Beach,East,1,15.0,15,55
+38,PRD-RTE-008,CP Fried Rice with Crab Meat 200g,Ready-to-Eat,5,QuickMart Ubon Mall,Isan,1,15.0,15,55
+33,PRD-RTE-003,CP Onigiri Salmon Teriyaki 100g,Ready-to-Eat,9,QuickMart Phuket Old Town,South,1,15.0,15,50
+33,PRD-RTE-003,CP Onigiri Salmon Teriyaki 100g,Ready-to-Eat,6,QuickMart Nimman Chiang Mai,North,1,15.0,15,50
+30,PRD-INS-008,Roza Ready Stewed Pork with Rice 200g,Instant Food,8,QuickMart Pattaya Beach,East,1,15.0,15,60
+65,PRD-HOU-005,Magiclean Floor Cleaner Berry 800ml,Household,6,QuickMart Nimman Chiang Mai,North,1,10.0,10,40
+5,PRD-BEV-005,Pepsi Original 325ml,Beverages,10,QuickMart Hat Yai Center,South,1,30.0,30,120
+44,PRD-BAK-006,Farmhouse Custard Bread Roll 60g,Bakery,4,QuickMart Korat City,Isan,1,19.0,20,70
+28,PRD-INS-006,Samyang Buldak Hot Chicken Ramen 140g,Instant Food,2,QuickMart Silom Complex,Central,1,15.0,15,60
+28,PRD-INS-006,Samyang Buldak Hot Chicken Ramen 140g,Instant Food,8,QuickMart Pattaya Beach,East,1,15.0,15,60
+29,PRD-INS-007,Knorr Cup Porridge Pork 35g,Instant Food,8,QuickMart Pattaya Beach,East,1,17.0,20,80
+54,PRD-DAI-008,Meiji Bulgarian Yogurt Natural 110g,Dairy,10,QuickMart Hat Yai Center,South,1,13.0,15,60
+53,PRD-DAI-007,Betagen Fermented Milk Light 300ml,Dairy,8,QuickMart Pattaya Beach,East,1,19.0,20,70
+53,PRD-DAI-007,Betagen Fermented Milk Light 300ml,Dairy,4,QuickMart Korat City,Isan,1,20.0,20,70
+54,PRD-DAI-008,Meiji Bulgarian Yogurt Natural 110g,Dairy,9,QuickMart Phuket Old Town,South,1,15.0,15,60
+49,PRD-DAI-003,Dutch Mill Drinking Yogurt Berry 400ml,Dairy,10,QuickMart Hat Yai Center,South,1,20.0,20,70
+49,PRD-DAI-003,Dutch Mill Drinking Yogurt Berry 400ml,Dairy,8,QuickMart Pattaya Beach,East,1,20.0,20,70
+49,PRD-DAI-003,Dutch Mill Drinking Yogurt Berry 400ml,Dairy,6,QuickMart Nimman Chiang Mai,North,1,20.0,20,70
+49,PRD-DAI-003,Dutch Mill Drinking Yogurt Berry 400ml,Dairy,3,QuickMart Khon Kaen Univ,Isan,1,18.0,20,70
+22,PRD-SNK-010,Sunbites Mixed Grains BBQ 56g,Snacks,4,QuickMart Korat City,Isan,1,15.0,15,60
+22,PRD-SNK-010,Sunbites Mixed Grains BBQ 56g,Snacks,9,QuickMart Phuket Old Town,South,1,14.0,15,60
+50,PRD-DAI-004,Dutchie Cup Yogurt Berry 135g,Dairy,5,QuickMart Ubon Mall,Isan,1,20.0,20,70
+51,PRD-DAI-005,Lactasoy Soy Milk Original 300ml,Dairy,5,QuickMart Ubon Mall,Isan,1,25.0,25,90
+44,PRD-BAK-006,Farmhouse Custard Bread Roll 60g,Bakery,8,QuickMart Pattaya Beach,East,1,20.0,20,70
+44,PRD-BAK-006,Farmhouse Custard Bread Roll 60g,Bakery,7,QuickMart Phitsanulok Station,North,1,20.0,20,70
+46,PRD-BAK-008,Butter Croissant Plain 60g,Bakery,2,QuickMart Silom Complex,Central,1,12.0,15,50
+46,PRD-BAK-008,Butter Croissant Plain 60g,Bakery,1,QuickMart Siam Square,Central,1,15.0,15,50
+46,PRD-BAK-008,Butter Croissant Plain 60g,Bakery,10,QuickMart Hat Yai Center,South,1,15.0,15,50
+46,PRD-BAK-008,Butter Croissant Plain 60g,Bakery,5,QuickMart Ubon Mall,Isan,1,15.0,15,50
+46,PRD-BAK-008,Butter Croissant Plain 60g,Bakery,8,QuickMart Pattaya Beach,East,1,14.0,15,50
+46,PRD-BAK-008,Butter Croissant Plain 60g,Bakery,9,QuickMart Phuket Old Town,South,1,12.0,15,50
+20,PRD-SNK-008,Oreo Original Sandwich Cookies 120g,Snacks,1,QuickMart Siam Square,Central,1,19.0,20,80
+19,PRD-SNK-007,Pocky Chocolate Biscuit Stick 45g,Snacks,3,QuickMart Khon Kaen Univ,Isan,1,25.0,25,90
+19,PRD-SNK-007,Pocky Chocolate Biscuit Stick 45g,Snacks,1,QuickMart Siam Square,Central,1,25.0,25,90
+20,PRD-SNK-008,Oreo Original Sandwich Cookies 120g,Snacks,8,QuickMart Pattaya Beach,East,1,20.0,20,80
+21,PRD-SNK-009,Pretz Corn Flavour 37g,Snacks,3,QuickMart Khon Kaen Univ,Isan,1,20.0,20,70
+21,PRD-SNK-009,Pretz Corn Flavour 37g,Snacks,6,QuickMart Nimman Chiang Mai,North,1,20.0,20,70
+21,PRD-SNK-009,Pretz Corn Flavour 37g,Snacks,9,QuickMart Phuket Old Town,South,1,20.0,20,70
+22,PRD-SNK-010,Sunbites Mixed Grains BBQ 56g,Snacks,1,QuickMart Siam Square,Central,1,15.0,15,60
+55,PRD-PER-001,Colgate Total Toothpaste 150g,Personal Care,8,QuickMart Pattaya Beach,East,1,10.0,10,40
+55,PRD-PER-001,Colgate Total Toothpaste 150g,Personal Care,9,QuickMart Phuket Old Town,South,1,10.0,10,40
+55,PRD-PER-001,Colgate Total Toothpaste 150g,Personal Care,3,QuickMart Khon Kaen Univ,Isan,1,10.0,10,40
+55,PRD-PER-001,Colgate Total Toothpaste 150g,Personal Care,6,QuickMart Nimman Chiang Mai,North,1,10.0,10,40
+17,PRD-SNK-005,Tao Kae Noi Crispy Seaweed 32g,Snacks,6,QuickMart Nimman Chiang Mai,North,1,20.0,20,70
+58,PRD-PER-004,Shokubutsu Shower Cream 200ml,Personal Care,7,QuickMart Phitsanulok Station,North,1,10.0,10,40
+17,PRD-SNK-005,Tao Kae Noi Crispy Seaweed 32g,Snacks,8,QuickMart Pattaya Beach,East,1,19.0,20,70
+17,PRD-SNK-005,Tao Kae Noi Crispy Seaweed 32g,Snacks,9,QuickMart Phuket Old Town,South,1,20.0,20,70
+57,PRD-PER-003,Head & Shoulders Menthol 160ml,Personal Care,4,QuickMart Korat City,Isan,1,10.0,10,40
+57,PRD-PER-003,Head & Shoulders Menthol 160ml,Personal Care,9,QuickMart Phuket Old Town,South,1,10.0,10,40
+56,PRD-PER-002,Darlie Double Action Toothpaste 140g,Personal Care,6,QuickMart Nimman Chiang Mai,North,1,9.0,10,40
+56,PRD-PER-002,Darlie Double Action Toothpaste 140g,Personal Care,5,QuickMart Ubon Mall,Isan,1,10.0,10,40
+57,PRD-PER-003,Head & Shoulders Menthol 160ml,Personal Care,10,QuickMart Hat Yai Center,South,1,9.0,10,40
+58,PRD-PER-004,Shokubutsu Shower Cream 200ml,Personal Care,1,QuickMart Siam Square,Central,1,10.0,10,40
+58,PRD-PER-004,Shokubutsu Shower Cream 200ml,Personal Care,8,QuickMart Pattaya Beach,East,1,10.0,10,40
+58,PRD-PER-004,Shokubutsu Shower Cream 200ml,Personal Care,9,QuickMart Phuket Old Town,South,1,10.0,10,40
+18,PRD-SNK-006,Koh-Kae Coated Peanuts Coconut 85g,Snacks,4,QuickMart Korat City,Isan,1,20.0,20,80
+18,PRD-SNK-006,Koh-Kae Coated Peanuts Coconut 85g,Snacks,1,QuickMart Siam Square,Central,1,20.0,20,80
+65,PRD-HOU-005,Magiclean Floor Cleaner Berry 800ml,Household,1,QuickMart Siam Square,Central,1,10.0,10,40
+64,PRD-HOU-004,Scott Extra Toilet Tissue 6 Rolls,Household,10,QuickMart Hat Yai Center,South,1,10.0,10,40
+60,PRD-PER-006,Care Baby Powder Gentle 160g,Personal Care,1,QuickMart Siam Square,Central,1,11.0,12,45
+59,PRD-PER-005,Nivea Men Extra White Foam 100g,Personal Care,3,QuickMart Khon Kaen Univ,Isan,1,8.0,8,30
+59,PRD-PER-005,Nivea Men Extra White Foam 100g,Personal Care,7,QuickMart Phitsanulok Station,North,1,8.0,8,30
+59,PRD-PER-005,Nivea Men Extra White Foam 100g,Personal Care,9,QuickMart Phuket Old Town,South,1,8.0,8,30
+18,PRD-SNK-006,Koh-Kae Coated Peanuts Coconut 85g,Snacks,8,QuickMart Pattaya Beach,East,1,19.0,20,80
+59,PRD-PER-005,Nivea Men Extra White Foam 100g,Personal Care,5,QuickMart Ubon Mall,Isan,1,8.0,8,30
+60,PRD-PER-006,Care Baby Powder Gentle 160g,Personal Care,3,QuickMart Khon Kaen Univ,Isan,1,12.0,12,45
+60,PRD-PER-006,Care Baby Powder Gentle 160g,Personal Care,4,QuickMart Korat City,Isan,1,12.0,12,45
+3,PRD-BEV-003,Crystal Drinking Water 600ml,Beverages,3,QuickMart Khon Kaen Univ,Isan,1,34.0,35,150
+60,PRD-PER-006,Care Baby Powder Gentle 160g,Personal Care,9,QuickMart Phuket Old Town,South,1,12.0,12,45
+61,PRD-HOU-001,Breeze Liquid Detergent 750ml,Household,2,QuickMart Silom Complex,Central,1,10.0,10,40
+60,PRD-PER-006,Care Baby Powder Gentle 160g,Personal Care,10,QuickMart Hat Yai Center,South,1,11.0,12,45
